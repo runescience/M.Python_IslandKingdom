@@ -1,0 +1,24 @@
+name,short_name,col,row,faction,analog
+Akamara,Akamara,3,3,Alliance,The Americas
+Blake World / Liege,Liege,3,4,Alliance,United Kingdom
+Manchu Empire,Manchu,4,3,Alliance,China Qing Dynasty
+Sinochia,Sinochia,3,5,Alliance,China Coastal
+New Portigua,N.Portigua,4,4,Alliance,Portugal Spain
+NewFoundland / Akira,NFoundland,6,5,Alliance,Canada Japan
+Tokyoshima / Shining Crest,Tokyoshima,6,7,Alliance,Japan Metropolitan
+Dark Sun / Dark World,Dark Sun,6,6,Alliance,Japan Shadow
+Ruskaya,Ruskaya,7,6,Alliance,Russia
+EuroPublic,EuroPublic,5,5,Alliance,European Union
+Bartog,Bartog,5,4,Neutral,Hanseatic League
+Sender,Sender,5,6,Neutral,Contested Border State
+Dagnarius,Dagnarius,6,3,Neutral,Genoa Amsterdam
+Xosha Declarative,Xosha,6,4,Neutral,Xhosa South Africa
+Cush,Cush,3,7,Axis,Ancient Nubia Kingdom of Kush
+Pote,Pote,4,6,Axis,Ancient Carthage Phoenicia
+Qenit,Qenit,3,8,Axis,Ancient Egypt
+R242,R242,3,6,Ruin,
+R341,R341,4,5,Ruin,
+R343,R343,4,7,Ruin,
+R344,R344,4,8,Ruin,
+R541,R541,7,5,Ruin,
+R551,R551,7,7,Ruin,

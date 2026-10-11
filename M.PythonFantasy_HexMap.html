@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Amaran Sector — Hex Map</title>
+<style>
+body{font-family:'Georgia',serif;background:#1a1a2e;color:#eee;margin:0;padding:20px;display:flex;flex-direction:column;align-items:center;}
+h1{color:#c9a84c;letter-spacing:2px;margin-bottom:4px;}
+p.sub{color:#888;font-size:0.85em;margin-bottom:20px;}
+svg{background:#0d1b2a;border:2px solid #c9a84c;border-radius:4px;}
+.legend{display:flex;gap:24px;margin-top:16px;flex-wrap:wrap;justify-content:center;}
+.leg{display:flex;align-items:center;gap:8px;font-size:0.85em;}
+.swatch{width:18px;height:18px;border-radius:3px;border:1px solid #555;}
+</style>
+</head>
+<body>
+<h1>Amaran Sector — Known World</h1>
+<p class="sub">Staggered hex grid · Color coded by faction · Grid coords (col, row)</p>
+
+<svg id="map" width="860" height="860" xmlns="http://www.w3.org/2000/svg"></svg>
+
+<div class="legend">
+  <div class="leg"><div class="swatch" style="background:#1a4731;border-color:#2d7a52;"></div>Alliance</div>
+  <div class="leg"><div class="swatch" style="background:#4a3800;border-color:#c9a84c;"></div>Neutral</div>
+  <div class="leg"><div class="swatch" style="background:#4a1020;border-color:#c0392b;"></div>Axis</div>
+  <div class="leg"><div class="swatch" style="background:#1a1a1a;border-color:#555;"></div>Ruin</div>
+  <div class="leg"><div class="swatch" style="background:#0d1b2a;border-color:#1e3a5f;"></div>Ocean</div>
+</div>
+
+<script>
+const HEX_W = 110;
+const HEX_H = 95;
+const OFFSET_X = 65;
+const OFFSET_Y = 55;
+const COLS = 9;
+const ROWS = 10;
+
+function hexCenter(col, row) {
+  const x = OFFSET_X + (col - 1) * HEX_W * 0.88;
+  const y = OFFSET_Y + (row - 1) * HEX_H + (col % 2 === 1 ? HEX_H / 2 : 0);
+  return { x, y };
+}
+
+function hexPoints(cx, cy, w, h) {
+  const rx = w / 2;
+  const ry = h / 2;
+  return [
+    [cx,      cy - ry],
+    [cx + rx, cy - ry * 0.5],
+    [cx + rx, cy + ry * 0.5],
+    [cx,      cy + ry],
+    [cx - rx, cy + ry * 0.5],
+    [cx - rx, cy - ry * 0.5],
+  ].map(p => p.join(',')).join(' ');
+}
+
+const colors = {
+  al: { fill:"#1a4731", stroke:"#2d7a52", text:"#7dffb3" },
+  ne: { fill:"#4a3800", stroke:"#c9a84c", text:"#ffe08a" },
+  ax: { fill:"#4a1020", stroke:"#c0392b", text:"#ff8a8a" },
+  ru: { fill:"#1a1a1a", stroke:"#555555", text:"#777777" },
+  oc: { fill:"#0d1b2a", stroke:"#1e3a5f", text:"#1e3a5f" },
+};
+
+const kingdoms = [
+  // Alliance
+  { short:"Akamara",        col:3, row:3, faction:"al" },
+  { short:"Liege",          col:3, row:4, faction:"al" },
+  { short:"Manchu",         col:4, row:3, faction:"al" },
+  { short:"Sinochia",       col:3, row:5, faction:"al" },
+  { short:"N.Portigua",     col:4, row:4, faction:"al" },
+  { short:"NFoundland/Akira",col:6,row:5, faction:"al" },
+  { short:"Tokyoshima/\nShining Crest", col:6, row:7, faction:"al" },
+  { short:"Dark Sun",       col:6, row:6, faction:"al" },
+  { short:"Ruskaya",        col:7, row:6, faction:"al" },
+  { short:"EuroPublic",     col:5, row:5, faction:"al" },
+  // Neutral
+  { short:"Bartog",         col:5, row:4, faction:"ne" },
+  { short:"Sender",         col:5, row:6, faction:"ne" },
+  { short:"Dagnarius",      col:6, row:3, faction:"ne" },
+  { short:"Xosha",          col:6, row:4, faction:"ne" },
+  // Axis
+  { short:"Cush",           col:3, row:7, faction:"ax" },
+  { short:"Pote",           col:4, row:6, faction:"ax" },
+  { short:"Qenit",          col:3, row:8, faction:"ax" },
+  // Ruins
+  { short:"R242",           col:3, row:6, faction:"ru" },
+  { short:"R341",           col:4, row:5, faction:"ru" },
+  { short:"R343",           col:4, row:7, faction:"ru" },
+  { short:"R344",           col:4, row:8, faction:"ru" },
+  { short:"R541",           col:7, row:5, faction:"ru" },
+  { short:"R551",           col:7, row:7, faction:"ru" },
+];
+
+const svg = document.getElementById('map');
+
+// ocean background hexes
+for (let c = 1; c <= COLS; c++) {
+  for (let r = 1; r <= ROWS; r++) {
+    const { x, y } = hexCenter(c, r);
+    const poly = document.createElementNS("http://www.w3.org/2000/svg","polygon");
+    poly.setAttribute("points", hexPoints(x, y, HEX_W * 0.92, HEX_H * 0.92));
+    poly.setAttribute("fill", colors.oc.fill);
+    poly.setAttribute("stroke", colors.oc.stroke);
+    poly.setAttribute("stroke-width", "1");
+    svg.appendChild(poly);
+
+    const lbl = document.createElementNS("http://www.w3.org/2000/svg","text");
+    lbl.setAttribute("x", x - HEX_W * 0.38);
+    lbl.setAttribute("y", y - HEX_H * 0.36);
+    lbl.setAttribute("font-size", "9");
+    lbl.setAttribute("fill", "#1e3a5f");
+    lbl.setAttribute("font-family", "monospace");
+    lbl.textContent = `${String(c).padStart(2,'0')},${String(r).padStart(2,'0')}`;
+    svg.appendChild(lbl);
+  }
+}
+
+// kingdom and ruin hexes
+kingdoms.forEach(k => {
+  const { x, y } = hexCenter(k.col, k.row);
+  const c = colors[k.faction];
+
+  const poly = document.createElementNS("http://www.w3.org/2000/svg","polygon");
+  poly.setAttribute("points", hexPoints(x, y, HEX_W * 0.92, HEX_H * 0.92));
+  poly.setAttribute("fill", c.fill);
+  poly.setAttribute("stroke", c.stroke);
+  poly.setAttribute("stroke-width", "2");
+  svg.appendChild(poly);
+
+  // grid coord
+  const coord = document.createElementNS("http://www.w3.org/2000/svg","text");
+  coord.setAttribute("x", x - HEX_W * 0.38);
+  coord.setAttribute("y", y - HEX_H * 0.36);
+  coord.setAttribute("font-size", "9");
+  coord.setAttribute("fill", c.stroke);
+  coord.setAttribute("font-family", "monospace");
+  coord.textContent = `${String(k.col).padStart(2,'0')},${String(k.row).padStart(2,'0')}`;
+  svg.appendChild(coord);
+
+  // name — handle \n as two lines
+  const lines = k.short.split('\n');
+  lines.forEach((line, i) => {
+    const t = document.createElementNS("http://www.w3.org/2000/svg","text");
+    const lineOffset = (i - (lines.length - 1) / 2) * 14;
+    t.setAttribute("x", x);
+    t.setAttribute("y", y + 4 + lineOffset);
+    t.setAttribute("text-anchor", "middle");
+    t.setAttribute("font-size", lines.length > 1 ? "10" : "11");
+    t.setAttribute("font-weight", "bold");
+    t.setAttribute("fill", c.text);
+    t.setAttribute("font-family", "Georgia, serif");
+    t.textContent = line;
+    svg.appendChild(t);
+  });
+});
+</script>
+</body>
+</html>
