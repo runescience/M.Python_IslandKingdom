@@ -1,0 +1,355 @@
+================================================================================
+CAMPAIGN PART 2: AFTER THE DELIVERY — THE LIEGE COMPLICATION
+================================================================================
+
+SITUATION SUMMARY
+-----------------
+The players have successfully delivered Admiral Hall's sealed diplomatic pouch
+to Liege (03,04). The job is done. But arriving in Liege with a foreign-crested
+sloop, a Lignum Vitae artifact fused to the masthead, and knowledge of the
+Great Lie makes them immediately dangerous to the status quo — and immediately
+interesting to every faction watching the docks.
+
+The moment they make port, the clock starts ticking on three separate problems
+converging on them at once.
+
+
+================================================================================
+WHAT THE ADVERSARIES ARE DOING WHILE THE PLAYERS SETTLE IN
+================================================================================
+
+--- DR. ZEPHYR / ACME CORPORATION ---
+
+Acme has had eyes on Liege for months. Per the Kingdom Compendium, Acme
+already has a presence two blocks from the Alliance council chambers in Akamara
+(03,03), and Liege intelligence is actively paying double rate for information
+on Acme's shipping routes. That means Acme knows Liege is watching them — and
+they've been careful.
+
+What Acme is doing RIGHT NOW:
+  - A mid-level Acme enforcer named CALLO VESH has been stationed in Liege
+    harbor for six weeks, posing as a Dagnarius factor. His actual job: watch
+    for anything unusual arriving from the outer reefs. The players' sloop —
+    reinforced hull, two mounted cannons, moving at impossible speed — just
+    lit up every flag he has.
+  - Callo has already sent a carrier pigeon to Zephyr. The message: "The mask
+    is in Liege harbor. Two primary operators. Unknown affiliation."
+  - Zephyr's response will arrive within 48 hours: "Acquire the vessel. If
+    the artifact cannot be separated, acquire the operators. Do not damage
+    the masthead."
+  - Acme has three hired blades already in Liege — not soldiers, fixers. They
+    will begin surveillance immediately and move to action once Zephyr's
+    confirmation arrives.
+
+The players have roughly 2 days before Acme shifts from watching to acting.
+
+--- ADMIRAL HALL / THE RECURRENT FOUNDATION OF THE HAND ---
+
+Hall orchestrated this entire journey. He knew the pouch would get the players
+to Liege. What he didn't tell them: the pouch contained more than peace
+treaties. It contained a sealed secondary document — a formal request to Liege
+intelligence to extend the Foundation's protection network into Liege's outer
+island possessions.
+
+Hall's man in Liege is a retired naval officer named COMMODORE ALDRIC FENN.
+Fenn is old, careful, and deeply loyal to the Foundation. He has been waiting
+for this delivery for three months.
+
+What Fenn is doing RIGHT NOW:
+  - He received word the players arrived. He is watching them from a distance,
+    assessing whether they are ready to be brought further into the Foundation's
+    confidence.
+  - He will not approach them directly. Instead, he will arrange for a
+    seemingly random encounter — a dockside merchant who "happens" to mention
+    that a man named Fenn would like to buy them a drink at a specific tavern
+    at a specific time.
+  - If the players show up, Fenn will offer them a new contract: escort a
+    Foundation courier through Sinochia fog waters to a location he won't
+    name until they're underway. Pay is generous. The real purpose is to test
+    whether the players can be trusted with Foundation-level operations.
+  - If the players don't show up, Fenn will try once more, then write them
+    off as uncontrollable assets and report back to Hall accordingly.
+
+--- R. ASILOM (THE ENTITY) ---
+
+The Lignum Vitae mask is still fused to the masthead. R. Asilom's fragments
+are still in it. Being this close to a major Alliance port — with its ancient
+harbor infrastructure, its deep-water moorings, its centuries-old stone
+foundations — is activating something in the entity.
+
+What R. Asilom is doing RIGHT NOW:
+  - The mask has begun vibrating at irregular intervals, always when pointed
+    toward the old harbor district. There is something buried under Liege's
+    oldest dock — a sealed stone chamber, pre-Alliance construction, that the
+    city's founders built over and forgot.
+  - The entity is not strong enough to act directly. But it is broadcasting.
+    Anyone sensitive to arcane energy in Liege — and there are a few — will
+    have started having strange dreams in the last 48 hours. Dreams of water,
+    of gates, of a melody they can't quite place.
+  - One of those dreamers is a Liege harbor archivist named SABLE MOURNE, who
+    has been quietly excavating the old harbor records for years, convinced
+    something important is buried under the oldest dock. She will find the
+    players. She doesn't know why. She just knows the dreams pointed her here.
+
+--- THE AXIS (BACKGROUND PRESSURE) ---
+
+Per the campaign map, Pote (04,06), Cush (03,07), and Qenit (03,08) form a
+frontline armada between the players and any route back toward the frontier.
+While the Axis isn't directly hunting the players yet, a Pote raider was
+recently captured and brought to Liege harbor — and hasn't been publicly
+announced (per the Liege rumor table).
+
+What this means for the players:
+  - Liege is quietly on a war footing. Extra naval patrols. Tighter paperwork
+    checks. A customs officer who is "unusually thorough" (per the encounter
+    table) will board their sloop within 24 hours of arrival.
+  - The captured Pote raider is being held in a secure facility two streets
+    from the harbor. Someone on that ship knows something about Acme's
+    movements in Axis waters. Liege intelligence wants that information before
+    Acme finds out the raider was taken.
+
+
+================================================================================
+THE NEXT ADVENTURE: "THE LIEGE COMPLICATION"
+================================================================================
+
+STRUCTURE: Three interlocking problems that the players must navigate
+simultaneously, each with its own clock.
+
+--- PROBLEM 1: THE CUSTOMS INSPECTION (Clock: 24 hours) ---
+
+A Liege customs officer named HARWICK DRAY boards the sloop within a day of
+arrival. He is meticulous, polite, and finds something he shouldn't: the
+unrecognized country crests on the uniforms the players may still have from
+the vacant island outpost (Chapter 1). He doesn't arrest them — he doesn't
+have grounds yet — but he files a report and flags the vessel for secondary
+inspection in 48 hours.
+
+The players have two days to either:
+  A) Get the uniforms off the ship and establish a cover story before the
+     secondary inspection.
+  B) Find someone with enough authority to quash the flag (Fenn can do this,
+     if they've met him).
+  C) Leave port before the 48 hours are up — which will itself raise flags
+     and put them on a watch list.
+
+If they fail all three options, they get pulled in for formal questioning by
+Liege intelligence. This isn't necessarily fatal — it could become a forced
+introduction to the Foundation's Liege network — but it costs them time and
+exposes the mask.
+
+--- PROBLEM 2: ACME MOVES (Clock: 48 hours) ---
+
+Callo Vesh's confirmation arrives. Acme's three fixers begin active
+surveillance, then move to acquire.
+
+The fixers are not soldiers. They are professionals:
+  - MIRA SOLT: A former Liege harbor pilot. Knows every dock, every alley,
+    every blind spot in the harbor district. Will attempt to get aboard the
+    sloop while the players are ashore.
+  - THE BROTHERS KAEL: Two large men who work as legitimate cargo handlers
+    by day. Their job is to separate one player from the group and offer a
+    "business proposition" — meaning a knife and a quiet room.
+  - CALLO VESH himself: Will not act directly. He is the coordinator. If the
+    players identify him, he will attempt to flee and warn Zephyr.
+
+The players can:
+  A) Detect the surveillance early (Bramble's passive +10% navigation bonus
+     applies to noticing things that are wrong on a dock) and turn the tables.
+  B) Let it play out and deal with the confrontation when it comes.
+  C) Use the situation to feed Acme false information about where they're
+     headed next.
+
+If Mira Solt gets aboard the sloop, she will not steal the mask — she can't
+detach it. But she will plant a tracking device (a small arcane resonance
+chip, Acme technology) in the hold. The players won't know it's there unless
+they search carefully.
+
+--- PROBLEM 3: SABLE MOURNE AND THE BURIED GATE (Clock: Flexible) ---
+
+The harbor archivist finds the players. She is nervous, sleep-deprived, and
+carrying a rolled-up set of pre-Alliance harbor charts that she has been
+collecting for years. She doesn't know what she's looking for. She just knows
+the players' ship is connected to whatever is under the old dock.
+
+If the players engage with her:
+  - She shows them the charts. The oldest dock in Liege was built over a
+    sealed stone chamber that predates the Alliance by at least 400 years.
+    The chamber is marked on the original survey maps with a symbol the
+    players may recognize: the same glyph that appeared on the Emeritus
+    Colony databanks from Chapter 4.
+  - The mask vibrates violently when pointed at the dock. R. Asilom is
+    trying to reach whatever is down there.
+  - Getting into the chamber requires either bribing the dock authority
+    (expensive), forging a survey permit (risky), or going in at night
+    through the water (dangerous, but the players have diving bladders).
+
+What's in the chamber:
+  - A dormant transit gate. Not active. Not even close to active. But intact.
+    The first one the players have seen in person.
+  - A stone inscription in a language that matches fragments from the Emeritus
+    databanks. It describes the gate network and names the nearest active
+    node: somewhere in the Ruined Charts (R242, 03,06).
+  - Evidence that someone else has been here recently. Boot prints in the
+    dust. A Acme Corporation seal stamp, dropped and forgotten.
+
+This is the hook for the next leg of the journey: the Ruined Charts, and
+whatever Acme is doing there.
+
+
+================================================================================
+THE NEXT LEG: ROUTE OPTIONS AND WHAT WAITS THERE
+================================================================================
+
+The players now have:
+  - The global map (from Chapter 4, either extracted or imprinted by the Gaxo)
+  - Knowledge of the buried gate under Liege's old dock
+  - An inscription pointing toward R242 (03,06) in the Ruined Charts
+  - Acme actively hunting them
+  - A potential Foundation contact in Fenn (if they took the meeting)
+  - A customs flag that will become a formal investigation if they stay
+
+Their logical next move is to leave Liege. The question is which direction.
+
+ROUTE A: NORTH THROUGH DAGNARIUS (06,03)
+  - Safest from Alliance patrols. No paperwork required.
+  - Acme has agents in Dagnarius (per the Kingdom Compendium). The tracking
+    chip (if planted) will lead Callo Vesh's report directly to them.
+  - Fenn's courier contract, if accepted, runs through Sinochia fog waters —
+    which means passing near Dagnarius anyway.
+  - Encounter risk: Moderate. Acme presence, but no Axis.
+
+ROUTE B: THROUGH THE RUINED CHARTS DIRECTLY (R242, 03,06)
+  - The inscription points here. The mask will likely react strongly.
+  - Nobody sails the Ruined Charts willingly. Wild magic anomalies, sea
+    monsters, and the wreckage of whatever happened 300 years ago.
+  - Acme has been here recently. Whatever they found, they didn't announce it.
+  - Encounter risk: High. Unknown. Potentially the most important location
+    in the campaign so far.
+
+ROUTE C: BACK TOWARD THE FRONTIER (SOUTH)
+  - The players know the frontier. They have allies there (the Gaxo, if they
+    took Route B in Chapter 4; the Sundown Atoll marshal).
+  - The Axis frontline blocks direct southern passage. They would need to
+    thread through Bartog (05,04) or Sender (05,06) buffer zones.
+  - Encounter risk: High from Axis patrols. Moderate from privateers.
+
+
+================================================================================
+ADVERSARY MOVEMENTS DURING THE NEXT LEG (WHEREVER THEY GO)
+================================================================================
+
+ACME:
+  - If the tracking chip was planted, Callo Vesh will file a route report
+    within 12 hours of the players leaving port. Acme will have a vessel
+    positioned to intercept within 3-4 days of sailing.
+  - If the chip was not planted (players found and removed it, or Mira Solt
+    was caught), Acme loses the trail temporarily. They will pick it up again
+    at the next port the players enter — Acme has eyes in every major harbor.
+  - Zephyr's personal interest is now engaged. He will not send fixers again.
+    He will send a proper retrieval team: a fast Acme cutter with six
+    Shinyman Enforcers and a specialist whose job is to detach the mask from
+    the masthead by any means necessary.
+
+ADMIRAL HALL / FENN:
+  - If the players took Fenn's contract, they have Foundation cover for their
+    movements. Fenn will quietly suppress the customs flag and ensure their
+    departure from Liege goes smoothly.
+  - If they didn't take the contract, Hall will hear about the Liege visit
+    through his own channels. He will be frustrated but not surprised. He
+    will make one more attempt to reach the players — this time through a
+    message left at a neutral port (Dagnarius or Bartog), signed only with
+    the Foundation's symbol.
+
+R. ASILOM:
+  - The entity now knows there is a dormant gate in Liege. It cannot act on
+    this directly. But it will begin subtly influencing the mask's navigation
+    pull — steering the players toward R242 whether they intend to go there
+    or not. The mask's compass interference will become more pronounced the
+    closer they get to the Ruined Charts.
+  - If the players resist the pull long enough, the entity will attempt
+    something more direct: a dream-intrusion, similar to the Gaxo's
+    dream-weaving but corrupted. The players will wake from it unsettled,
+    with fragmented images of a gate opening and something vast moving
+    through it.
+
+THE AXIS:
+  - The captured Pote raider in Liege harbor is a ticking clock. If the
+    players leave without engaging with that situation, Liege intelligence
+    will eventually extract the information themselves — and one piece of
+    that information is that Acme has been running supply lines through
+    Pote-controlled waters. This will accelerate the Alliance's investigation
+    of Acme, which is good for the players long-term but creates short-term
+    chaos in every port they visit.
+
+
+================================================================================
+KEY NPCs INTRODUCED THIS CHAPTER
+================================================================================
+
+CALLO VESH
+  Role: Acme mid-level enforcer / harbor spy
+  Appearance: Heavyset, well-dressed, always has a ledger in hand. Looks
+              exactly like a Dagnarius factor.
+  Motivation: Career advancement within Acme. Not a true believer — just
+              ambitious. Can be bribed or turned if the players are clever.
+  Stat Block (1st Ed): HD 2+2 (HP 13). AC 7 (leather under merchant clothes).
+              THAC0 18. Weapon: concealed short sword (1d6). Special: if
+              cornered, will attempt to flee and warn Acme rather than fight.
+
+COMMODORE ALDRIC FENN (RETIRED)
+  Role: Foundation contact in Liege
+  Appearance: Old, weathered, moves like a man who spent forty years at sea.
+              Drinks slowly. Watches everything.
+  Motivation: Loyalty to the Foundation and to Hall. Genuinely believes the
+              Great Lie needs to end — carefully, on the Foundation's terms.
+  Note: Will not reveal Foundation secrets until the players have earned
+        significant trust. Will test them repeatedly before doing so.
+
+SABLE MOURNE
+  Role: Liege harbor archivist / accidental ally
+  Appearance: Mid-thirties, ink-stained fingers, carries too many rolled
+              charts. Looks perpetually sleep-deprived.
+  Motivation: Academic obsession with pre-Alliance harbor history. Has no
+              idea she's been dream-influenced by R. Asilom. Genuinely just
+              wants to know what's under the dock.
+  Note: Useful as a recurring NPC. She has access to Liege's historical
+        records and can provide research support for future investigations
+        into the gate network.
+
+HARWICK DRAY
+  Role: Liege customs officer
+  Appearance: Precise, formal, never raises his voice.
+  Motivation: Does his job. That's it. Not corrupt, not cruel, just thorough.
+  Note: Can become an ally if the players handle the inspection honestly and
+        with the right paperwork. Can become a serious obstacle if they lie
+        badly.
+
+
+================================================================================
+SESSION HOOKS (PICK ONE TO OPEN WITH)
+================================================================================
+
+HOOK A — THE INSPECTION:
+  Open with Harwick Dray stepping aboard the sloop, ledger in hand, politely
+  asking to see their transit papers. The uniforms are visible in the hold.
+
+HOOK B — THE DREAM:
+  Open with one player waking from a vivid, disturbing dream: a stone gate
+  underwater, a melody (Werewolves of London, distorted), and a voice that
+  isn't quite human saying "you are close." The mask is glowing faintly.
+
+HOOK C — THE APPROACH:
+  Open with a dockside merchant pressing a folded note into the lead player's
+  hand as they walk the harbor. The note reads: "The Anchor & Compass. Tonight.
+  Ask for Fenn. Come alone or don't come." No signature.
+
+HOOK D — THE TAIL:
+  Open with Bramble quietly pulling the lead player aside on the dock. "We're
+  being watched. Two men, cargo handlers, been following us since we cleared
+  customs. Third one I haven't placed yet." The Acme fixers have already begun.
+
+
+================================================================================
+END OF PART 2 DOCUMENT
+================================================================================

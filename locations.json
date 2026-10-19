@@ -1,0 +1,136 @@
+{
+  "locations": [
+    {
+      "id": "liege_customs_house",
+      "name": "The Customs House",
+      "city": "Liege",
+      "district": "Harbor approach road",
+      "type": "government_building",
+      "description": "Wide, flat-fronted building set back from the main road. Flies three flags: Liege's own, the Alliance standard, and an unidentified third. Two uniformed officers at the door, not quite at attention. Tall clean windows. A queue of merchants with manifests waits outside.",
+      "notes": "Someone inside is always watching the street. Your vessel is flagged here. Harwick Dray operates out of this building.",
+      "threat_level": "moderate",
+      "first_seen": "part2-1a"
+    },
+    {
+      "id": "liege_chandlers_row",
+      "name": "Chandler's Row",
+      "city": "Liege",
+      "district": "Harbor approach road",
+      "type": "commercial_terrace",
+      "description": "Four shops in a terrace selling rope, lamp oil, rendered tallow, sailcloth, and oakum. Prices chalked on boards outside. Not cheap. An older woman in a leather apron runs the third shop.",
+      "notes": "Standard resupply point. Prices are high but stock is reliable.",
+      "threat_level": "none",
+      "first_seen": "part2-1a"
+    },
+    {
+      "id": "liege_anchor_compass",
+      "name": "The Anchor & Compass",
+      "city": "Liege",
+      "district": "Harbor approach road, mid-block",
+      "type": "tavern",
+      "description": "Mid-block tavern with a faded painted sign — anchor and compass more suggested than depicted. Door open from before midday. Low conversation, scrape of chairs. The meeting point named in Fenn's note.",
+      "notes": "Fenn's designated contact point per the note. An older man reading a broadsheet was seated outside on a low wall — possible watcher, identity unknown. Not Fenn.",
+      "threat_level": "low",
+      "first_seen": "part2-1a"
+    },
+    {
+      "id": "liege_naval_registry",
+      "name": "Naval Registry Office",
+      "city": "Liege",
+      "district": "Harbor approach road",
+      "type": "government_building",
+      "description": "Smaller than expected. Brass plate on the door. A clerk visible through the window, bent over a ledger. All vessels entering Liege harbor are logged here.",
+      "notes": "Your vessel is already in that ledger. Fenn was observed leaning against the exterior wall before following you to the docks.",
+      "threat_level": "moderate",
+      "first_seen": "part2-1a"
+    },
+    {
+      "id": "liege_fish_market",
+      "name": "The Fish Market",
+      "city": "Liege",
+      "district": "Harbor approach road",
+      "type": "open_market",
+      "description": "Not a building — a stretch of road given over to stalls and crates. Gulls overhead. Cobblestones darker and perpetually wet. A man arguing in a half-recognized language. Something in a crate that was still moving.",
+      "notes": "No tactical significance. Useful for losing a tail in the crowd.",
+      "threat_level": "none",
+      "first_seen": "part2-1a"
+    },
+    {
+      "id": "liege_pastry_stand",
+      "name": "The Pastry Stand",
+      "city": "Liege",
+      "district": "Harbor approach road, near dock entrance",
+      "type": "street_vendor",
+      "description": "A woman's food stall selling hot pastry cases — savory on the left, sweet on the right. Positioned with a clear sightline to the dock entrance. The vendor is approximately 45, weathered, efficient.",
+      "notes": "Tactically positioned. If you were watching the docks, this is where you would stand. Vendor is observant and remembers faces. Savory cases contain salt pork and onion. Price is almost reasonable by Liege standards.",
+      "threat_level": "none",
+      "first_seen": "part2-1a"
+    },
+    {
+      "id": "liege_dock_entrance_arch",
+      "name": "Harbor Entrance Arch",
+      "city": "Liege",
+      "district": "Docks",
+      "type": "checkpoint",
+      "description": "Wide stone arch marking the transition from city to harbor. Liege harbor authority post on one side — small booth, one officer, a logbook. All foot traffic is noted.",
+      "notes": "You are logged when you pass through. Give them nothing to write down except direction of travel.",
+      "threat_level": "low",
+      "first_seen": "part2-1a"
+    },
+    {
+      "id": "liege_near_pier",
+      "name": "Near Pier",
+      "city": "Liege",
+      "district": "Docks",
+      "type": "pier",
+      "description": "The pier closest to the harbor entrance. Holds mostly working boats — fishing vessels and a small coastal trader with its hold open, a chain of men passing crates down into it.",
+      "notes": "Nothing of interest. No threats observed.",
+      "threat_level": "none",
+      "first_seen": "part2-1a"
+    },
+    {
+      "id": "liege_middle_pier",
+      "name": "Middle Pier",
+      "city": "Liege",
+      "district": "Docks",
+      "type": "pier",
+      "description": "The longest pier. Naval patrol cutters at the far end flying Liege colors. Closer in: a wide-beamed merchant sloop, a two-masted brigantine with unidentified foreign rigging, and a canvas-covered vessel of unknown identity.",
+      "notes": "The Brothers Kael (Acme fixers) were observed sitting on a bollard near the entrance. Mira Solt (Acme harbor pilot) was observed checking lines along the far side. Customs officer Harwick Dray is working this pier and will reach the far pier eventually.",
+      "threat_level": "high",
+      "first_seen": "part2-1a"
+    },
+    {
+      "id": "liege_far_pier",
+      "name": "Far Pier",
+      "city": "Liege",
+      "district": "Docks",
+      "type": "pier",
+      "description": "The oldest pier. Darker stone, more corroded ironwork. Vessels here are smaller, older, or both — the ones that don't fit neatly into the harbor authority's categories. Hound's Dream is moored at the end.",
+      "notes": "Built on older stone at the far end. The join between new and old construction is visible and not clean. This is the location of the buried pre-Alliance stone chamber R. Asilom is responding to.",
+      "threat_level": "low",
+      "first_seen": "part2-1a"
+    },
+    {
+      "id": "liege_hounds_dream_berth",
+      "name": "Hound's Dream — Far Pier Berth",
+      "city": "Liege",
+      "district": "Docks, Far Pier (end)",
+      "type": "vessel_berth",
+      "description": "Berth at the end of the far pier. Occupied by Hound's Dream — a 40-45 foot single-masted fore-and-aft rigged vessel. Hull dark with age and treatment. Name carved plain into the stern board. Well-maintained: lines coiled correctly, canvas furled tight, ironwork clean. Looks ready to leave.",
+      "notes": "Fenn's vessel. Contract meeting took place on deck, stern. Fenn departs at first light tomorrow. Decision deadline: before first light.",
+      "threat_level": "none",
+      "first_seen": "part2-1a"
+    },
+    {
+      "id": "liege_buried_gate_chamber",
+      "name": "The Buried Chamber (Pre-Alliance)",
+      "city": "Liege",
+      "district": "Docks, beneath Far Pier old stone",
+      "type": "ancient_structure",
+      "description": "A sealed stone chamber beneath the oldest section of the far pier dock. Pre-Alliance construction, predating the Alliance by at least 400 years. Built over by the city's founders and forgotten. Marked on original survey maps with the same glyph seen on the Emeritus Colony databanks.",
+      "notes": "Contains a dormant transit gate — the first one seen in person. Stone inscription in a language matching Emeritus databank fragments describes the gate network and names the nearest active node at R242 (03,06). Recent boot prints in the dust. An Acme Corporation seal stamp was found dropped inside. R. Asilom's fragments in the masthead mask are responding to this location — the mask vibrates when pointed toward the old dock. Access requires bribery, forged survey permit, or underwater entry.",
+      "threat_level": "unknown",
+      "first_seen": "part2-1a"
+    }
+  ]
+}

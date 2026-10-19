@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "description": "Spatial connections between locations in Liege harbor district. Two main travel paths: HARBOR_APPROACH_ROAD (city to docks, traveling south/downhill) and DOCK_ROAD (inside harbor, traveling west along pier row). Borders are directional — 'from' and 'to' reflect the direction of travel in the scene. Cross-street borders are noted where two locations face each other across the road.",
+    "paths": [
+      "HARBOR_APPROACH_ROAD",
+      "DOCK_ROAD"
+    ]
+  },
+  "connections": [
+
+    {
+      "id": "conn_01",
+      "path": "HARBOR_APPROACH_ROAD",
+      "from": "liege_customs_house",
+      "to": "liege_chandlers_row",
+      "relationship": "serial_along_road",
+      "direction_of_travel": "south (downhill toward docks)",
+      "side_of_road": {
+        "liege_customs_house": "east — set back from road",
+        "liege_chandlers_row": "west — terrace flush with road"
+      },
+      "border_type": "cross_street",
+      "notes": "Customs House and Chandler's Row face each other across the harbor approach road. A traveler walking south passes both simultaneously — Customs House on their left, Chandler's Row on their right. The Customs House is set back; the Chandler's Row terrace is flush with the pavement."
+    },
+
+    {
+      "id": "conn_02",
+      "path": "HARBOR_APPROACH_ROAD",
+      "from": "liege_chandlers_row",
+      "to": "liege_anchor_compass",
+      "relationship": "serial_along_road",
+      "direction_of_travel": "south (downhill toward docks)",
+      "side_of_road": {
+        "liege_chandlers_row": "west",
+        "liege_anchor_compass": "east — mid-block"
+      },
+      "border_type": "sequential_same_side_then_cross",
+      "notes": "Chandler's Row ends and the Anchor & Compass begins on the opposite (east) side of the road, mid-block. The dockworker with the handcart turned left here — west, away from the Anchor & Compass. The broadsheet man was seated on the low wall outside the Anchor & Compass on the east side."
+    },
+
+    {
+      "id": "conn_03",
+      "path": "HARBOR_APPROACH_ROAD",
+      "from": "liege_anchor_compass",
+      "to": "liege_naval_registry",
+      "relationship": "serial_along_road",
+      "direction_of_travel": "south (downhill toward docks)",
+      "side_of_road": {
+        "liege_anchor_compass": "east",
+        "liege_naval_registry": "west"
+      },
+      "border_type": "cross_street",
+      "notes": "Anchor & Compass (east) and Naval Registry Office (west) face each other across the road. A traveler walking south passes both at roughly the same point. Fenn was leaning against the west wall of the Naval Registry when the player passed. The broadsheet man outside the Anchor & Compass had a sightline directly across to the Naval Registry."
+    },
+
+    {
+      "id": "conn_04",
+      "path": "HARBOR_APPROACH_ROAD",
+      "from": "liege_naval_registry",
+      "to": "liege_fish_market",
+      "relationship": "serial_along_road",
+      "direction_of_travel": "south (downhill toward docks)",
+      "side_of_road": {
+        "liege_naval_registry": "west",
+        "liege_fish_market": "both — stalls occupy road and both pavements"
+      },
+      "border_type": "sequential_road_widens",
+      "notes": "The fish market begins where the Naval Registry ends. It is not a building — it occupies the road itself and both sides of the pavement. The cobblestones change character here: darker, perpetually wet. A traveler must pass through it rather than past it. The Naval Registry's south wall is the effective north border of the fish market."
+    },
+
+    {
+      "id": "conn_05",
+      "path": "HARBOR_APPROACH_ROAD",
+      "from": "liege_fish_market",
+      "to": "liege_pastry_stand",
+      "relationship": "serial_along_road",
+      "direction_of_travel": "south (downhill toward docks)",
+      "side_of_road": {
+        "liege_fish_market": "both sides",
+        "liege_pastry_stand": "east — near dock entrance, sightline to arch"
+      },
+      "border_type": "sequential_market_narrows_to_vendor",
+      "notes": "The fish market thins out as the road approaches the dock entrance. The pastry stand is the last fixed point before the arch — east side, positioned deliberately for sightline to the dock entrance. The fish market's south edge and the pastry stand's north edge are effectively the same border."
+    },
+
+    {
+      "id": "conn_06",
+      "path": "HARBOR_APPROACH_ROAD",
+      "from": "liege_pastry_stand",
+      "to": "liege_dock_entrance_arch",
+      "relationship": "serial_along_road",
+      "direction_of_travel": "south",
+      "side_of_road": {
+        "liege_pastry_stand": "east",
+        "liege_dock_entrance_arch": "center — spans full road width"
+      },
+      "border_type": "sequential_terminal",
+      "notes": "The pastry stand is the last location before the arch. The arch spans the full road width — there is no way to enter the docks without passing through it. The vendor at the pastry stand has a direct sightline to the arch and logs everyone who passes. This is the end of HARBOR_APPROACH_ROAD and the start of DOCK_ROAD."
+    },
+
+    {
+      "id": "conn_07",
+      "path": "DOCK_ROAD",
+      "from": "liege_dock_entrance_arch",
+      "to": "liege_near_pier",
+      "relationship": "first_branch",
+      "direction_of_travel": "west (into harbor, first pier on right)",
+      "side_of_road": {
+        "liege_dock_entrance_arch": "entry point",
+        "liege_near_pier": "right (north) — first pier encountered"
+      },
+      "border_type": "arch_to_pier_branch",
+      "notes": "Immediately past the arch, the dock road opens into the harbor. The near pier branches right (north). A traveler who does not turn right continues west along the dock road toward the middle and far piers. The near pier is the default first option for anyone entering the harbor."
+    },
+
+    {
+      "id": "conn_08",
+      "path": "DOCK_ROAD",
+      "from": "liege_near_pier",
+      "to": "liege_middle_pier",
+      "relationship": "serial_along_dock_road",
+      "direction_of_travel": "west (continuing past near pier)",
+      "side_of_road": {
+        "liege_near_pier": "right (north)",
+        "liege_middle_pier": "right (north) — next pier along"
+      },
+      "border_type": "sequential_pier_to_pier",
+      "notes": "The near pier and middle pier are both on the north side of the dock road, sequential. The gap between them is open water and dock road. The Brothers Kael were observed on a bollard at the near end of the middle pier — at the border between near pier territory and middle pier territory."
+    },
+
+    {
+      "id": "conn_09",
+      "path": "DOCK_ROAD",
+      "from": "liege_middle_pier",
+      "to": "liege_far_pier",
+      "relationship": "serial_along_dock_road",
+      "direction_of_travel": "west (continuing past middle pier)",
+      "side_of_road": {
+        "liege_middle_pier": "right (north)",
+        "liege_far_pier": "right (north) — final pier"
+      },
+      "border_type": "sequential_pier_to_pier",
+      "notes": "The middle pier and far pier are sequential on the north side. The far pier is visibly older — the stone changes character at the border. Mira Solt was observed on the far side of the middle pier, near this border, checking lines."
+    },
+
+    {
+      "id": "conn_10",
+      "path": "DOCK_ROAD",
+      "from": "liege_far_pier",
+      "to": "liege_hounds_dream_berth",
+      "relationship": "terminal_along_pier",
+      "direction_of_travel": "north (walking the length of the far pier to its end)",
+      "side_of_road": {
+        "liege_far_pier": "pier body",
+        "liege_hounds_dream_berth": "pier end — port side berth"
+      },
+      "border_type": "sequential_terminal",
+      "notes": "Hound's Dream is moored at the far end of the far pier. Walking the pier from its dock road entrance to its end is a single straight path with no branches. The berth is the terminal point of the entire DOCK_ROAD path."
+    },
+
+    {
+      "id": "conn_11",
+      "path": "VERTICAL",
+      "from": "liege_far_pier",
+      "to": "liege_buried_gate_chamber",
+      "relationship": "above_below",
+      "direction_of_travel": "down — underwater or through dock foundation",
+      "side_of_road": {
+        "liege_far_pier": "surface — old stone section, far end",
+        "liege_buried_gate_chamber": "below — sealed stone chamber in dock foundation"
+      },
+      "border_type": "vertical_subterranean",
+      "notes": "The buried chamber is directly beneath the oldest section of the far pier. The border is the dock surface itself — the join between new and old construction is visible from above. Access from the far pier requires going through the dock foundation (bribery or forged permit) or entering from the water below (diving). Hound's Dream's berth is directly above the chamber's approximate location.",
+      "access_options": [
+        "Bribe dock authority for foundation access permit",
+        "Forge a harbor survey permit",
+        "Enter from the water at night using diving bladders"
+      ]
+    },
+
+    {
+      "id": "conn_12",
+      "path": "VERTICAL",
+      "from": "liege_hounds_dream_berth",
+      "to": "liege_buried_gate_chamber",
+      "relationship": "above_below",
+      "direction_of_travel": "down — from vessel deck through water to chamber",
+      "side_of_road": {
+        "liege_hounds_dream_berth": "surface — vessel moored at pier end",
+        "liege_buried_gate_chamber": "below — chamber in dock foundation"
+      },
+      "border_type": "vertical_subterranean",
+      "notes": "Hound's Dream sits directly above the buried chamber. The mask on the masthead vibrates when the vessel is in this berth. A diver going over the side from Hound's Dream at night would be directly above the chamber's water-side access point. This is the most discreet entry route."
+    }
+
+  ],
+
+  "path_summary": {
+    "HARBOR_APPROACH_ROAD": {
+      "direction": "North to South, downhill",
+      "sequence": [
+        "liege_customs_house (east) / liege_chandlers_row (west) — cross-street pair",
+        "liege_anchor_compass (east) / liege_naval_registry (west) — cross-street pair",
+        "liege_fish_market (both sides — occupies road)",
+        "liege_pastry_stand (east)",
+        "liege_dock_entrance_arch (center — terminal)"
+      ],
+      "notes": "Six border crossings on a single downhill road. Two cross-street pairs where east and west locations face each other. Fish market breaks the pattern by occupying the full road width."
+    },
+    "DOCK_ROAD": {
+      "direction": "East to West inside harbor, piers branch north",
+      "sequence": [
+        "liege_dock_entrance_arch (entry)",
+        "liege_near_pier (north branch)",
+        "liege_middle_pier (north branch)",
+        "liege_far_pier (north branch)",
+        "liege_hounds_dream_berth (far pier terminal)"
+      ],
+      "notes": "All three piers are on the north side of the dock road. A traveler walking west passes each pier entrance in sequence. Turning north onto any pier is a branch decision. The far pier is the terminal branch."
+    },
+    "VERTICAL": {
+      "direction": "Surface to subterranean",
+      "connections": [
+        "liege_far_pier → liege_buried_gate_chamber (dock foundation access)",
+        "liege_hounds_dream_berth → liege_buried_gate_chamber (water-side access)"
+      ],
+      "notes": "The buried chamber is accessible from two surface points. The berth access is the most discreet. Both require deliberate effort — this location does not connect passively."
+    }
+  }
+}
