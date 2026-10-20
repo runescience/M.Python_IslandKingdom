@@ -98,6 +98,7 @@ What players can do here:
     where we are going." He adjusts course. He watches the masthead.
   - Seal Daring's chart if they haven't. Once inside the fog, the ink
     degrades in two hours if unprotected. Nobody will tell them this.
+  - Deal with the Mireille. See THE MIREILLE below.
 
 Encounter — Liege naval patrol (day 1-2):
   Routine clearance. Fenn's papers are good. The vessel is logged and
@@ -122,6 +123,18 @@ What players can do here:
     water behavior. He does not explain unless asked.
 
 The Warden begins here. See THE WARDEN below.
+
+GM NOTE — IF THE MIREILLE WAS RESOLVED BEFORE THE MARGIN:
+  The Warden does not appear immediately. The fog thins slightly around
+  the vessel on entry. Fenn notices. He says nothing. If asked: "The fog
+  knows we are not a threat. That is unusual." The Warden still exists —
+  it is watching — but it has already assessed the vessel via the Mireille
+  and decided to wait rather than investigate. The player has one free
+  pass. They should not know why.
+
+GM NOTE — IF THE MIREILLE WAS NOT RESOLVED:
+  Run the Warden encounter as written below. The fog has not pre-assessed
+  the vessel. The Warden investigates from scratch.
 
 --- 4. FENN'S LIMIT (fog interior, day 6 midpoint) ---
 BOLD / SENSORY / ACTION:
@@ -180,6 +193,19 @@ before she looks at the player.
 DALE: "You found the knot." (if they did)
 DALE: "You didn't find the knot. How long did that cost us?" (if they didn't)
 
+GM NOTE — IF THE PLAYER BOARDED THE MIREILLE AND FOUND THE CHARTS:
+  Dale looks at the player. Then at the masthead. Then back at the player.
+  DALE: "You found the Mireille."
+  She goes quiet for a moment. Not grief — something more complicated.
+  DALE: "I thought she was lost. How many of the crew are still alive?"
+  Whatever the player answers, Dale nods once and does not ask again.
+  She knew the Mireille. She sent them into the fog six weeks ago to
+  verify a position she had charted. They did not come back on schedule.
+  She has been carrying that since. The player just told her what happened
+  to them. This changes the dynamic — Dale trusts the player faster,
+  opens the waterproofed case sooner, and does not make them earn it
+  the same way.
+
 What players can do here:
   - Ask about the records. She will say: the fog is moving away from
     something. She knows roughly where. She doesn't know what.
@@ -189,6 +215,216 @@ What players can do here:
     still following you?" If still following: "Then we need to move now."
   - Ask if she knows anyone on the Sinochia patrol. She will say:
     "One person. I would prefer not to need them."
+  - Ask about the Mireille (if they encountered it). See GM NOTE above.
+
+
+================================================================================
+THE MIREILLE — OPEN WATER ENCOUNTER (days 1-5)
+================================================================================
+
+WHAT IT IS:
+  A Sinochia fog-runner — a fast, shallow-draft vessel built for the
+  interior reef lines. She went into the fog six weeks ago and came back
+  wrong. The crew is alive but changed. They are not hostile. They are
+  not rational. They are trying to get back in.
+
+  The fog did something to them. Now they cannot stop moving toward it.
+  The player's vessel — specifically the mask — is the strongest signal
+  of the fog they can sense outside the margin. They are following the
+  mask home.
+
+  They are not attacking. But they will not stop.
+  They are not dead. But they are not right.
+  They will do whatever it takes to stay close to the mask.
+
+HOW IT APPEARS — DAY BY DAY:
+
+  DAY 1 (subtle):
+    A vessel on the horizon, same heading. Not unusual. Bramble notes it
+    without comment if the player asks him what he sees. Fenn has seen it
+    too. Neither says anything unless asked.
+
+  DAY 2 (clearer):
+    Still there. Same distance. Fenn adjusts course slightly — a small
+    correction, nothing dramatic. The vessel adjusts with them. If the
+    player asks Fenn about it: "It's been there since yesterday." He says
+    it the way you say something you have been watching and have not yet
+    decided what to do about. He does not adjust course again.
+
+  DAY 3 (conflict begins):
+    Fenn stops adjusting. He holds course and watches. The vessel holds
+    with them. It is not a patrol — wrong flag, wrong silhouette. Through
+    a glass: hull damage visible. A section of rail gone. A dark stain
+    along the waterline that might be old water damage or might be
+    something else. No crew visible on deck, but the vessel is sailing.
+    Someone is working the lines.
+    Fenn, if asked: "That is the Mireille. She is a Sinochia fog-runner.
+    She went into the margin six weeks ago. She was not supposed to come
+    back out."
+    He pauses.
+    "She should not be sailing."
+
+  DAY 4 (threat):
+    The Mireille closes distance overnight. By morning she is close enough
+    to read without a glass. No colors flying. No response to signals.
+    The hull damage is worse than it looked — the vessel should not be
+    sailing. One crew member is visible at the bow, standing still,
+    facing the player's vessel. Not watching the horizon. Watching the
+    masthead.
+    The mask's vibration has changed. Not the directional pull toward the
+    pre-Alliance mark. Something reactive. Something that recognizes.
+
+  DAY 5 (resolution — player must act or it acts for them):
+    The Mireille is close enough that her bow wake is visible from the
+    stern. If the player does nothing, she will make contact before the
+    fog margin. See WHAT HAPPENS IF IGNORED below.
+
+WHAT HAPPENS WHEN PLAYERS DO SOMETHING:
+
+  FIRE AN ARROW:
+    It lands. Someone on deck moves — not to take cover, not to react
+    with alarm. They move to pull the arrow out of the wood and look at
+    it. Then they look at the player's vessel. They do not change course.
+    This is the first moment the players understand something is wrong
+    with these people. Normal sailors react to being shot at.
+    Fenn, watching: "Don't do that again."
+    If asked why: "Because now they know we are paying attention."
+
+  FIRE A CANNON:
+    The shot hits. Damage is visible — a section of rail gone, a hole
+    at the waterline. The Mireille lists slightly. She does not stop.
+    She corrects. The crew moves to compensate — mechanically, without
+    urgency, without looking at the damage. They are keeping the vessel
+    functional because they need it functional to keep following.
+    A second shot below the waterline will start sinking her.
+    If she sinks, the crew goes into the water. They will swim toward
+    the player's vessel. They will not stop swimming. This is now a
+    different problem — see CREW IN THE WATER below.
+    Fenn: "You have made this significantly more complicated."
+
+  HAIL THEM / TRY TO COMMUNICATE:
+    One person comes to the rail. They look at the player. They open
+    their mouth. What comes out is not language — it is the sound of
+    the fog. The low tone the mask makes when the Warden is near.
+    They are broadcasting the same frequency as the mask.
+    Fenn goes very still when he hears it.
+    Fenn: "That is not a good sign."
+    If asked what it means: "It means the fog is using them to talk
+    to us. Or to the mask. I am not certain which."
+    He does not say anything else.
+
+  SEND A BIRD:
+    The bird lands on the Mireille's mast. Nothing happens for a while.
+    Then one of the crew picks it up. They do not send it back. They
+    hold it. Twenty minutes later the bird returns on its own — not
+    sent — with a piece of cloth tied to its leg. The cloth has a mark
+    on it: the same pre-Alliance glyph as the mark on Daring's chart.
+    The crew did not write this. They do not know they wrote this.
+    The fog wrote it through them.
+    Fenn looks at the cloth for a long time. He does not touch it.
+    Fenn: "Keep that."
+
+  SEND A DIVER:
+    The diver goes under and comes up fast. Something is under the
+    Mireille — not the hull, under the water beneath the hull. A shape.
+    Large. Not the Warden — the Warden is in the fog. This is something
+    the fog-runner vessel is carrying without knowing it. An impression
+    left in the water. The diver cannot describe it clearly. They just
+    know they did not want to be near it.
+    The diver will not go back under. Do not push them on this.
+
+  BOARD HER:
+    The Mireille's crew does not resist. They do not help. They stand
+    and watch. Their eyes track the player's movement but they do not
+    speak, do not gesture, do not react to anything except proximity
+    to the masthead — if the player gets close to the mast, the nearest
+    crew member takes one step toward them. Not aggressive. Drawn.
+
+    The hold: full of fog charts. Sinochia proprietary charts, the kind
+    that do not leave Sinochia waters. All of them are wrong. The
+    coastlines are right but the interior is mapped in a way that does
+    not match any known geography. Someone has been charting something
+    that should not be chartable — a location inside the fog that the
+    fog itself does not want charted.
+
+    One crew member, if the player makes eye contact and holds it, says
+    one word: "Dale."
+
+    Then they look away. They do not say it again.
+
+    The charts are worth taking. The word "Dale" is worth more.
+    If the player takes the charts and returns to their vessel, the
+    Mireille holds position for one hour and then resumes following.
+    The boarding did not resolve anything. It only gave the player
+    information.
+
+  LET THE MASK RESPOND (the correct resolution):
+    Stop trying to control it. Hold position. Let the vibration do
+    what it does. Do not cover the masthead. Do not run. Hold.
+    The mask produces a low tone — not music, a frequency.
+    The Mireille stops. The crew sits down on the deck, all of them,
+    at the same time. They are asleep or something like it.
+    The vessel drifts.
+    After a few minutes the crew begins to stir. They are confused.
+    Cold. They do not know where they are or how long they have been
+    at sea. One of them is sick over the rail. Another is crying
+    without knowing why.
+    They are back. The fog let them go because the mask answered
+    correctly.
+    Fenn watches this happen with the expression of a man revising
+    something he thought he understood.
+    Fenn: "I did not know it could do that."
+
+WHAT HAPPENS IF IGNORED (player does nothing by day 5):
+    The Mireille closes until her bow is almost touching the player's
+    stern. Fenn says: "We need to make a decision."
+    If the player still does nothing, the vessels make contact. One
+    of the Mireille's crew reaches across and touches the masthead.
+    The mask produces the tone. The Mireille's crew sits down. They
+    are asleep or something like it. The vessel drifts.
+    This is the resolution — but the player did not choose it. It
+    happened to them. Fenn saw what happened. He will remember that
+    the mask resolved it without the player's input. He does not say
+    this. He files it.
+
+CREW IN THE WATER (if the Mireille is sunk):
+    The crew swims toward the player's vessel. They will not stop.
+    They are not aggressive — they are drawn. They want to be near
+    the mask. If pulled aboard, they are passive, confused, and will
+    not speak except to occasionally say "Dale" or make the fog tone.
+    They cannot be left in the water — they will drown eventually,
+    still swimming toward the vessel.
+    The player now has to decide what to do with people who are alive
+    but wrong, in open water, days from shore, with no way to explain
+    what happened to them.
+    There is no clean answer. Fenn will not tell the player what to do.
+    He will say: "They are Sinochia nationals. Whatever you decide,
+    decide it before we reach the margin. We cannot bring them into
+    the fog."
+
+THE PAYOFF — WHAT THE MIREILLE GIVES THE PLAYER:
+    If the player boarded and found the charts and the word "Dale":
+    They arrive at Location 3 already knowing Dale is real, already
+    knowing the fog has been mapped from the inside, already one step
+    ahead of what Fenn told them. The charts in the hold show a location
+    inside the fog that the Mireille's crew was sent to verify. The
+    location matches the pre-Alliance mark on Daring's chart.
+
+    When they find Dale, she looks at the player. Then at the masthead.
+    DALE: "You found the Mireille."
+    She goes quiet. Not grief — something more complicated.
+    DALE: "I thought she was lost. How many of the crew are still alive?"
+    Whatever the player answers, Dale nods once and does not ask again.
+    She sent the Mireille in six weeks ago to verify a position. They
+    did not come back on schedule. She has been carrying that since.
+    The player just told her what happened to them.
+    This changes the dynamic. Dale trusts the player faster. She opens
+    the waterproofed case sooner. She does not make them earn it the
+    same way.
+
+    If the player resolved the Mireille by letting the mask respond:
+    The Warden already assessed the vessel via the Mireille before the
+    fog margin. The fog entry is easier. See Location 3 GM NOTE above.
 
 
 ================================================================================
@@ -217,7 +453,8 @@ What the player can do — they have to figure this out:
     The mask produces a low tone. The Warden stops circling. This is
     the best outcome — the Warden will recognize the vessel on future
     voyages. Nobody aboard knows this is possible. The player discovers
-    it by trying it.
+    it by trying it. If they already used the mask tone on the Mireille,
+    they know it works. They have the answer before the question is asked.
 
 If ignored entirely: it follows them to the anchorage. Dale sees it.
 The Sinochia patrol reads the Warden following a vessel as trespass.
@@ -249,7 +486,7 @@ IF THE PERIAPT WAS PLANTED:
   use it without asking if the situation is bad enough. A Foundation
   vessel responds within four hours.
 
-IF THE CHIP WAS NOT PLANTED:
+IF THE PERIAPT WAS NOT PLANTED:
   The margin is clear. Open water. Fenn sets course for the rendezvous.
 
 Either way — Fenn, when Dale boards:
@@ -281,10 +518,27 @@ FAIL: Player navigates badly and misses Dale entirely.
   re-enter the fog. The Sinochia patrol has now logged an unknown
   vessel in their waters. The next entry is not clean.
 
+FAIL: Player sinks the Mireille and cannot manage the crew.
+  The Mireille's crew drowns. They were Sinochia nationals. Sinochia
+  will find out — the fog knows what happened in its waters. On the
+  return voyage, the Sinochia patrol is not cautious. It is hostile.
+  Dale's contact on the patrol is not enough. The player has to fight
+  their way out or run. Either way, Sinochia remembers this vessel.
+  Future fog voyages will not be clean.
+
 
 ================================================================================
 LOOT / REWARDS
 ================================================================================
+
+THE MIREILLE'S CHARTS (found if boarded):
+  Sinochia proprietary fog charts, all of them wrong in the same way.
+  The coastlines are correct. The interior is mapped to a location that
+  should not be chartable — a fixed point inside the fog that the fog
+  itself does not want found. The location matches the pre-Alliance mark
+  on Daring's chart. This is the source of the fog movement. This is
+  where R242 points. The player now has independent confirmation from
+  inside the fog before Dale tells them anything.
 
 DALE'S SUMMARY PAGE (found at the anchorage if searched):
   One page, waterproofed. A year of fog movement compressed into
@@ -308,6 +562,13 @@ DALE'S TRUST (earned over the return voyage):
   DALE: "The fog isn't moving randomly. It's moving away from something.
   Something that was here before the Alliance, before the fog, before
   any of this. And whatever it is — your mast knows what it is."
+
+  If the player found the Mireille and boarded her, Dale says this
+  differently:
+  DALE: "The Mireille found it. That's what the charts show. That's
+  what I sent them to verify. They found it and the fog didn't want
+  them to leave with that knowledge. Your mast is the only reason
+  they came back at all."
 
 ================================================================================
 END OF MODULE
