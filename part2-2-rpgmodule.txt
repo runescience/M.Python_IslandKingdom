@@ -24,8 +24,9 @@ If the player succeeds:
   Dale and her records reach Ombreval. The Foundation gets the data.
   Whatever Acme is protecting stays exposed.
 
-Secondary stake: the Acme tracking chip (if planted) means a retrieval
-team is already moving. Success on the main mission doesn't mean safe.
+Secondary stake: the Acme periapt (if planted on the masthead) means
+Zephyr has been reading their position daily. A retrieval team is already
+moving. Success on the main mission doesn't mean safe.
 
 
 ================================================================================
@@ -71,8 +72,10 @@ table at the stern with two cups already set out.
 What players can do here:
   - Talk to Fenn. He answers direct questions. He does not volunteer.
   - Inspect the vessel before departure. If they look carefully at their
-    own hold, they may find the tracking chip (small bronze disc, warm
-    to the touch, faintly humming). If they don't look, they won't find it.
+    own masthead, they may find the periapt — a small carved bone charm
+    on a cord, looped over the masthead like a sailor's good-luck token.
+    Warm to the touch if held. Faintly humming. Looks like a cheap trinket.
+    If they don't look, they won't find it.
   - Prepare for the voyage: seal charts against moisture, stock supplies,
     ask Fenn what they need to know.
 
@@ -132,8 +135,8 @@ What happens:
   current on the correct heading), and whatever Bramble has learned.
   Then he waits. He will be here when they return.
 
-  He is exposed. If the tracking chip was planted, an Acme cutter is
-  at the margin. Fenn does not know about the chip. Whether the player
+  He is exposed. If the periapt was planted, an Acme cutter is
+  at the margin. Fenn does not know about the periapt. Whether the player
   told him is on them.
 
 What players can do here:
@@ -228,7 +231,7 @@ THE RETURN — WHAT WAITS AT THE MARGIN
 Dale navigates the return. She knows these waters. Faster than the
 trip in.
 
-IF THE TRACKING CHIP WAS PLANTED:
+IF THE PERIAPT WAS PLANTED:
   An Acme cutter is holding position just outside the fog margin.
   Three crew, two Shinyman Enforcers, one specialist (records handler,
   not a fighter). They want Dale and the records. They will offer to

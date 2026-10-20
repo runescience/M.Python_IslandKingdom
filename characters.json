@@ -79,10 +79,10 @@
       "location": "Middle pier, Liege docks. Checking lines on vessels.",
       "appearance": "A woman moving along the far side of the middle pier, checking lines. Moves like someone who knows every dock in this harbor.",
       "bearing": "Did not look at the player. This is notable — everyone else did. Professional discipline.",
-      "known_history": "Former Liege harbor pilot. Knows every dock, alley, and blind spot in the harbor district. Acme's job for her: get aboard the players' sloop while they are ashore and plant an arcane resonance tracking chip in the hold.",
+      "known_history": "Former Liege harbor pilot. Knows every dock, alley, and blind spot in the harbor district. Acme's job for her: get aboard the players' sloop while they are ashore and loop a periapt over the masthead — a small carved bone charm on a cord that looks like a sailor's good-luck token. Zephyr scries through the paired focus once per day to read the vessel's position.",
       "known_to_player": false,
       "stat_block": null,
-      "notes": "Cannot detach the mask — no one can. Will plant tracking chip if she gets aboard undetected. Players won't know it's there unless they search carefully. Bramble's passive +10% navigation bonus applies to noticing things wrong on a dock."
+      "notes": "Cannot detach the mask — no one can. Will loop the periapt over the masthead if she gets aboard undetected. Players won't know it's there unless they examine the masthead carefully and think to question what they find. Bramble's passive +10% navigation bonus applies to noticing things wrong on a dock."
     },
     {
       "id": "brothers_kael",

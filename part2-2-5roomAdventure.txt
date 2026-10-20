@@ -1,0 +1,574 @@
+================================================================================
+MODULE: THE FOG BETWEEN
+A 5-Location Outdoor Adventure
+================================================================================
+
+THE MAP FLOW
+
+                [Location 1: The Last Night in Liege]
+                                │
+                [Location 2: Open Water — The Mask Wakes]
+                                │
+                [Location 3: The Fog Margin — Echo Vessels]
+                        ╱                           ╲
+        [Location 4a: The Warden]       [Location 4b: Fenn's Limit]
+                        ╲                           ╱
+                [Location 5: Dale's Anchorage]
+
+
+THE WALLS (why players can't go around)
+  - The fog is impassable without a guide. No chart covers the interior.
+  - Compass drift compounds every hour inside. Wrong heading = lost.
+  - The Warden does not leave the fog. It follows vessels that broadcast.
+  - Fenn's charts end at a specific point. Past it, he cannot help.
+
+THE SPLIT (Location 3 → 4a or 4b)
+  Players who engage the Warden take 4a. Slower. Harder. Pays off at 5.
+  Players who push past it take 4b — Fenn's limit, faster, but they
+  arrive at Dale's anchorage without the Warden resolved. Dale sees it
+  immediately. The patrol window shrinks.
+
+CROSS-LOCATION OBJECT: DARING'S CHART
+  If waterproofed in Location 1 — usable through the whole voyage.
+  If not waterproofed — degrades two hours into Location 3. Players
+  navigate Location 4 from memory. The chart is the river water from
+  the stepping-stones. Preparation in room one pays off in room four.
+
+
+================================================================================
+THE HOOK
+================================================================================
+
+A woman named Wendy Dale is stranded in Sinochia fog waters. She has
+one year of records documenting something wrong happening inside the fog.
+Acme Corporation wants those records destroyed and Dale with them.
+Commodore Fenn has the contract. He needs the player's vessel and crew.
+The pay is good. Dale will not wait more than three days.
+
+THE STAKES
+  Success: Dale and her records reach safety. Acme loses the information.
+  Failure: Dale dies. Records destroyed. Acme wins this round clean.
+  Secondary: if the Acme periapt was planted on the masthead in Liege,
+  Zephyr has been reading their position daily and a retrieval team is
+  already moving toward the fog margin.
+
+
+================================================================================
+RUMOR TABLE (d4 — gather in Liege before departure)
+================================================================================
+
+1. TRUE — The fog margin has shifted. Approach lines reliable last season
+   are inside the fog now. Three navigators have refused the northern
+   corridors this month.
+   (Source: any harbor worker, Farnsworth, Daring)
+
+2. TRUE — Acme has had a man in Liege harbor for six weeks posing as a
+   factor. Liege intelligence posted a bounty on Acme shipping information
+   three days ago. Word got around.
+   (Source: barkeep at the Mersling)
+
+3. HALF-TRUE — There is something in the fog that follows ships. Sailors
+   who came back from the margin won't go back.
+   (True: the Warden exists and follows vessels that broadcast.
+   False: it does not leave the fog. Sailors are misremembering fear.)
+
+4. LIE — Wendy Dale left Sinochia two weeks ago. Someone saw her in
+   Dagnarius.
+   (Acme disinformation. Dale is still in Sinochia. Players who chase
+   this waste a week and tip Acme off that they are looking.)
+
+
+================================================================================
+LOCATION 1: THE LAST NIGHT IN LIEGE
+The Gatehouse. Preparation determines what tools the player carries in.
+================================================================================
+
+THE WALLS
+  The player leaves at first light. Everything they do not do tonight
+  they cannot do inside the fog. This location is bounded by time,
+  not terrain.
+
+BOLD / SENSORY / ACTION
+  Liege harbor at night. Lamp-lit stone, the smell of fish and tar,
+  the knock of hulls against the pier. Hound's Dream at the far end
+  of the far pier, dark hull, one light at the stern. The player has
+  until first light.
+
+WHAT EXISTS HERE — THINGS TO TOUCH, FIND, DECIDE
+
+  HOUND'S DREAM (Fenn's vessel):
+    The hold is accessible before departure. If the player searches it,
+    they find the Acme periapt — a small carved bone charm on a cord,
+    looped over the masthead like a sailor's good-luck token. Warm to the
+    touch if held. Faintly humming. Looks like a cheap trinket.
+    If they don't search, they won't find it. Nobody will tell them
+    to look.
+    Telegraph: on the walk to the pier, the player passes the Brothers
+    Kael loading cargo two docks over. They are watching. If the player
+    clocked them earlier in Liege, they know what this means.
+
+  DARING'S CHART:
+    In the player's possession from the previous scene. The ink is
+    standard cartographer's ink — not waterproofed. A sealed chart
+    tube protects it. An unsealed pocket does not.
+    If the player asks Fenn about the fog before departure: "It is wet
+    inside. Wetter than you expect. Protect anything you need to read."
+    He will not say this twice.
+
+  FENN (at the stern table):
+    Answers direct questions. Does not volunteer.
+    - Ask about the route: "Southwest. Alliance waters two days, then
+      open sea. Fog margin end of the week. I navigate the approach.
+      Dale navigates the interior. You provide the vessel and the guns."
+    - Ask about the fog: "The compass drifts inside. Watch the water
+      temperature. Warmer current on the correct heading."
+    - Ask what to prepare: "Sleep. You won't get much once we're in."
+    - Ask about the mask: "It will be noticed. Be ready to make a
+      decision about it. I don't know what decision. That depends on
+      what notices it."
+
+  THE PERIAPT (GM decision point):
+    Decide now whether Mira Solt planted it. A periapt is a small carved
+    stone or bone charm on a cord — looped over the masthead, it looks
+    like a normal sailor's good-luck token. Zephyr has the paired focus
+    (a crystal ball) and scries through it once per day to read the
+    vessel's position. It does not work inside the fog.
+    If yes — an Acme cutter leaves Liege within hours of the player.
+    It has one week to reach the fog margin. It will be waiting when
+    they come out. If no — Acme has lost the trail for now.
+    Commit to one. Do not change it mid-voyage.
+
+WHAT THE PLAYER CARRIES OUT OF LOCATION 1:
+  - Daring's chart: sealed or unsealed. Their choice.
+  - Knowledge of the periapt: found or not found. Their choice.
+  - Fenn's navigation tips: absorbed or ignored. Their choice.
+  - One night of sleep, or not.
+
+
+================================================================================
+LOCATION 2: OPEN WATER — THE MASK WAKES
+The Corridor. One week of sailing. The last stretch before the fog.
+================================================================================
+
+THE WALLS
+  Open sea. The Sinochia coastal current pushes against the hull from
+  the southwest by day three — they are committed to the heading.
+  Turning back now costs three days. The fog margin is ahead.
+
+BOLD / SENSORY / ACTION
+  Alliance waters thinning to open sea. The color of the water changes
+  by day three — darker, colder, the green gone out of it. By day five
+  the horizon flattens. The light goes sourceless. No shadows. The fog
+  is not visible yet but the world is already behaving differently.
+
+WHAT EXISTS HERE — THINGS TO TOUCH, FIND, DECIDE
+
+  THE MASK VIBRATING (day 4):
+    The masthead begins vibrating at irregular intervals. Subtle.
+    Bramble notices if he is on deck and watching. He says nothing
+    unless the player asks him directly.
+    The vibration is directional. It is not pointing at Dale's position.
+    It is pointing toward the pre-Alliance mark on Daring's chart —
+    a different heading entirely.
+    If the player uses the mask as a compass, they drift off course.
+    If they ask Fenn: "That is not our heading." He adjusts course.
+    He watches the masthead. He does not explain further.
+
+  BRAMBLE WATCHING FENN:
+    Fenn navigates from the bow. Small corrections to heading, no
+    explanation. He is reading the water — surface temperature,
+    current behavior, the way the swell runs.
+    If the player directs Bramble to study what Fenn is doing,
+    Bramble learns the pattern. He will be able to use it in
+    Location 4b. If the player doesn't direct him, he doesn't
+    presume. He does his job and watches the horizon.
+
+  LIEGE NAVAL PATROL (day 1-2):
+    A Liege patrol vessel comes alongside. Routine clearance.
+    Fenn's papers are good. The vessel is logged and cleared.
+    If the Harwick Dray customs flag was never resolved in Liege,
+    the patrol officer hesitates, checks twice, files a secondary
+    note. Not an arrest. A clock that starts ticking back in Liege.
+
+  FENN IN THE EVENINGS:
+    The only time Fenn talks without being asked is in the evenings,
+    at anchor or hove-to. He will say one thing each evening if the
+    player is present. In order:
+    Day 2: "Hall has been running assets for thirty years. You are
+            not the first. You may be the most useful."
+    Day 4: "The fog does not lie to you. It just stops telling you
+            things you relied on. That is different."
+    Day 6: "My charts end about two hours inside the margin. I told
+            you that. I want to make sure you heard it."
+
+WHAT THE PLAYER CARRIES OUT OF LOCATION 2:
+  - Whether Bramble has the navigation pattern or not.
+  - Whether the mask's direction problem has been identified or not.
+  - Whether Daring's chart is still legible (if unsealed, it degrades
+    two hours into Location 3 — the player has one last chance to
+    seal it here if they think of it).
+
+
+================================================================================
+LOCATION 3: THE FOG MARGIN — ECHO VESSELS
+The Puzzle Room. Instruments lie. The fog tests what the player trusts.
+================================================================================
+
+THE WALLS
+  The fog margin is a gradient — the player will not know they are
+  inside it until the horizon is gone. The banks are the fog itself:
+  impenetrable, directionless, identical in every direction. There is
+  no going around. There is only through.
+
+BOLD / SENSORY / ACTION
+  The horizon disappears over the course of an hour. The water surface
+  goes flat and grey, like old glass. Smells of salt and cold stone —
+  the smell of a room closed for a long time. Sound carries wrong.
+  Voices from the bow sound close even when the speaker is far away.
+  The compass needle drifts. One degree. Then two.
+
+WHAT EXISTS HERE — THINGS TO TOUCH, FIND, DECIDE
+
+  THE ECHO VESSELS:
+    Shapes in the fog. Ships that passed through before them,
+    imperfectly replicated. Wrong rigging. Wrong running light color.
+    Headings that don't match the wind. They move with purpose but
+    arrive nowhere.
+    If the player chases one: it leads deeper into the fog on a
+    heading that is not northwest by north. Costs time. The echo
+    dissolves after twenty minutes of pursuit, leaving them off course.
+    If the player asks Fenn: "The fog remembers what passes through it.
+    Don't chase them."
+
+  THEIR OWN ECHO:
+    One of the echo vessels is Hound's Dream. Slightly wrong — the
+    rigging a different configuration, the running lights the wrong
+    color, the heading slightly off the wind. Running parallel,
+    fifty yards to port. Visible for ten minutes before the fog
+    takes it.
+    Fenn sees it. He does not react. He has seen this before.
+    If the player asks: "It means we have been noted."
+    Telegraph: this is the moment the Warden begins tracking them.
+    The player does not know this yet. They will feel it in Location 4.
+
+  THE COMPASS DRIFT:
+    One to two degrees per hour, compounding. Fenn corrects by
+    dead reckoning and water behavior — surface temperature, current
+    timing, the behavior of the swell at specific depths. He does
+    not explain his corrections unless asked directly.
+    If the player watches him work and asks: he will show them.
+    He will point at the water surface. "Warmer here. We are on
+    the correct heading. Two degrees colder and we correct north."
+    This is the same information he gave in Location 1. It means
+    more now that they can see it working.
+
+  DARING'S CHART DEGRADING (if unsealed):
+    Two hours inside the margin, the ink begins to run. The fog
+    margin boundary blurs first. The pre-Alliance mark holds longer —
+    it was drawn in older, denser ink — but by hour three it is
+    gone too. The player is now navigating from memory.
+    Do not announce this. Describe it: "The chart in your pocket
+    is wet. When you unfold it, the lines have moved."
+
+THE SPLIT — END OF LOCATION 3:
+  The Warden makes itself known here. A shape at the edge of
+  visibility. The water surface disturbing as something large
+  passes beneath the hull. The mask's vibration changes character.
+
+  Players who stop to engage it → Location 4a: The Warden.
+  Players who push past it toward Fenn's limit → Location 4b.
+  Both paths reach Location 5. The cost is different.
+
+
+================================================================================
+LOCATION 4a: THE WARDEN
+The Roleplay / Puzzle Option. Slower. Pays off at Location 5.
+================================================================================
+
+THE WALLS
+  The Warden does not attack. But it does not leave. It circles.
+  The fog thickens around the vessel while it investigates — visibility
+  drops to ten feet. Moving forward in this is navigating blind.
+  The player cannot proceed until they resolve it or outlast it.
+
+BOLD / SENSORY / ACTION
+  A shape slightly denser than the surrounding grey, moving at the
+  edge of visibility. The water surface disturbs as something large
+  passes beneath the hull — a displacement wave that rocks the vessel
+  without wind. The mask vibrates urgently. Not directional. Reactive.
+  Like a dog that has heard something it recognizes.
+
+WHAT EXISTS HERE — THINGS TO TOUCH, FIND, DECIDE
+
+  WHAT THE WARDEN IS:
+    The player does not know. They have to figure it out from behavior.
+    It circles. It does not attack. It investigates.
+    Fenn, if asked: "I have heard of it. The Sinochia clans call it
+    the Warden. I have never seen it. I was told it responds to things
+    that don't belong."
+    The mask's behavior is information: it is reacting to something
+    it recognizes. The vibration is not fear. It is attention.
+
+  THREE WAYS TO RESOLVE IT — PLAYER DISCOVERS, NOT TOLD:
+
+    COVER THE MASTHEAD:
+      Canvas, rope, anything that physically muffles the masthead.
+      Reduces the signal. The Warden loses specific interest.
+      Circles twice more. Withdraws.
+      Fenn will hint at this if asked how to make it stop:
+      "Reduce what it is following."
+      Outcome: Warden withdraws. Passage clears. The Warden does
+      not remember this vessel as anything other than a nuisance
+      that went quiet.
+
+    HOLD COURSE AND WAIT:
+      Do nothing. Maintain speed. Do not react.
+      The Warden comes close enough that its displacement wave
+      rocks the hull hard. Twenty minutes of this. Then it decides
+      they are passing through and withdraws.
+      Outcome: Warden withdraws. Passage clears. Time cost: twenty
+      minutes plus crew morale damage — any NPC crew members are
+      rattled. Bramble holds.
+
+    LET THE MASK RESPOND:
+      Stop trying to control it. Hold position. Let the vibration
+      do what it does.
+      The mask produces a low tone. Not music. A frequency.
+      The Warden stops circling. The fog thins slightly around
+      the vessel. The water surface settles.
+      Nobody aboard knows this is possible. The player discovers
+      it by reasoning from the mask's behavior, or by trying it.
+      Outcome: best long-term result. The Warden recognizes the
+      vessel. Future fog voyages — it does not investigate.
+      Fenn watches this happen with the expression of a man
+      revising something he thought he understood.
+
+WHAT THE PLAYER CARRIES OUT OF LOCATION 4a:
+  - The Warden resolved. Dale will not see it at the anchorage.
+    The patrol window stays full.
+  - If they let the mask respond: a relationship with the Warden
+    that will matter on every future fog voyage.
+  - Time cost: twenty minutes to an hour depending on method.
+
+
+================================================================================
+LOCATION 4b: FENN'S LIMIT
+The Combat / Skill Option. Faster. Arrives at Location 5 with the
+Warden unresolved.
+================================================================================
+
+THE WALLS
+  Fenn stops the vessel. His charts end here. The fog looks identical
+  in every direction. There are no landmarks. The compass is drifting
+  two to three degrees per hour now. Moving forward without a method
+  means getting lost.
+
+BOLD / SENSORY / ACTION
+  The fog is the same in every direction. The bow barely visible from
+  the stern. The creak of rigging is very loud. Fenn stops the vessel
+  and turns to face the player. He is not apologetic. He is precise.
+
+WHAT EXISTS HERE — THINGS TO TOUCH, FIND, DECIDE
+
+  FENN'S HANDOFF:
+    FENN: "This is as far as my charts go. Dale's position is three
+    hours northwest by north from here. Roughly. The fog shifts the
+    approach. I have never been to her position."
+    He pauses.
+    FENN: "Your compass will drift two to three degrees per hour
+    from here. Correct by water temperature — warmer current on
+    the correct heading. Your navigator has been watching me work.
+    He knows the pattern if you pointed him at it."
+    He looks at the player.
+    FENN: "I will hold position here. Come back on the reciprocal
+    heading. I will be here."
+    He says it with the certainty of a man who has waited in worse places.
+
+  THE NAVIGATION PROBLEM:
+    Three tools available — player has to assemble them:
+
+    BRAMBLE: if the player directed him to watch Fenn in Location 2,
+    he has the water temperature pattern. He can hold the heading.
+    He will drift slightly — he is not Fenn — but he can do it.
+    If the player did not direct him: he can try, but drift is worse.
+    Either way, Bramble does what the player tells him. He does not
+    take over.
+
+    THE MASK: its pull is toward the pre-Alliance mark — northeast.
+    Dale is northwest. Nearly opposite. If the player has figured out
+    the mask's direction problem (from Location 2), they can use it
+    as a negative reference: keep the pull to starboard, they are
+    on the correct heading. If they haven't figured it out, the mask
+    is just noise.
+
+    DARING'S CHART: if sealed and legible, the pre-Alliance mark
+    gives them a fixed reference point. If degraded, it is gone.
+
+  FENN EXPOSED:
+    Fenn is holding position at the edge of his charts. If the
+    periapt was planted, an Acme cutter is at the margin.
+    Fenn does not know about the chip. Whether the player told him
+    is on them. If they didn't tell him, he is waiting alone at
+    a position Acme can calculate.
+
+  THE WARDEN (still following):
+    The player pushed past it. It is still there. They cannot see
+    it in the fog but the mask's vibration has not settled. It is
+    still reactive. Still following.
+    They will arrive at Location 5 with it behind them.
+
+WHAT THE PLAYER CARRIES OUT OF LOCATION 4b:
+  - A heading and three navigation tools of varying quality.
+  - The Warden unresolved — Dale will see it the moment they arrive.
+  - Fenn alone at the midpoint, possibly exposed.
+  - Faster arrival at Location 5 than the 4a path.
+
+
+================================================================================
+LOCATION 5: DALE'S ANCHORAGE
+The Climax. Everything the player prepared for or failed to prepare
+for arrives here at once.
+================================================================================
+
+THE WALLS
+  A low rock shelf, barely above the waterline, accessible only from
+  the water. The fog is thinner here, close to the rock. The Sinochia
+  patrol comes through this anchorage every six hours. The window is
+  ninety minutes — less if the Warden is still following the vessel,
+  because the patrol reads the Warden following a ship as trespass.
+
+BOLD / SENSORY / ACTION
+  Three structures on a low rock shelf. Old stone, older than the
+  Alliance. One lamp burning in the chart house window — a slow-burn
+  wick on a timer. The mooring line has a specific knot pattern.
+  Dale is not here.
+
+WHAT EXISTS HERE — THINGS TO TOUCH, FIND, DECIDE
+
+  THE KNOT MARKER:
+    A specific knot on the mooring line. Dale's signal — she moved,
+    ninety minutes further northwest, secondary position. The knot
+    tells anyone who knows to look where she went.
+    If the player examines the mooring line: they find it. They go
+    direct. Ninety minutes to Dale.
+    If the player doesn't examine it and searches instead: time cost.
+    The patrol window shrinks. If the Warden is also unresolved,
+    the window may already be gone.
+
+  THE SUMMARY PAGE (hidden reward):
+    Inside the chart house, under the drafting table, a second
+    waterproofed packet. Dale left it in case the primary records
+    were lost. One page. A year of fog movement compressed into
+    a single diagram. The source marked with an X. No label.
+    No coordinates. Just a location relative to the current margin.
+    The player will not find this unless they search the chart house.
+    It is not announced. It is just there.
+
+  THE WARDEN (if unresolved — from 4b path):
+    Dale sees it the moment the vessel arrives.
+    DALE (not yet visible, voice from the fog): "You brought it.
+    How long do we have?"
+    The patrol window is now reduced by half. The player must
+    resolve the Warden here, under time pressure, or leave
+    immediately and hope the patrol doesn't come early.
+
+  DALE'S SECONDARY POSITION (ninety minutes northwest):
+    A smaller rock shelf. No structures. Dale in a small tender,
+    waterproofed case in her lap, watching the fog. Three days
+    of supplies. She has been watching for them.
+
+    She looks at the vessel. She looks at the masthead. She looks
+    at the player.
+
+    DALE: "You found the knot." (if they did)
+    DALE: "You didn't find the knot. How long did that cost us?" (if not)
+
+    Dale — wants: out, with the records intact. Not rescued.
+    Extracted. Speaks in short sentences. Does not waste words.
+
+    What she will say:
+    - Ask about the records: "A year of margin movement. The pattern
+      has a source. I know roughly where. I don't know what it is."
+    - Ask about the mask: "It's been pulling northeast since you
+      entered the fog. That's the direction the fog is moving away
+      from. I don't think that's a coincidence."
+    - Ask about the Warden: "Did you resolve it or is it still
+      following you?" If still following: "Then we need to move now."
+    - Ask if she knows anyone on the patrol: "One person. I would
+      prefer not to need them."
+
+  THE PATROL (environmental hazard):
+    If the window runs out — or if the Warden is still following
+    and the patrol reads it — two Sinochia clan vessels come out
+    of the fog. Not hostile by default. Hostile to vessels that
+    don't belong.
+    If the Warden was resolved (4a path): the patrol sees a vessel
+    the fog accepts. They are cautious, not aggressive. Dale's
+    contact on the patrol is enough to talk through it.
+    If the Warden was not resolved (4b path): the patrol sees a
+    vessel the fog is following. They move to intercept. Dale's
+    contact is the only card left to play — and Dale will play it,
+    but she will not be happy about it.
+    DALE: "I said I would prefer not to need them."
+
+
+================================================================================
+REWARDS
+================================================================================
+
+DALE'S TRUST (earned, not given):
+  If the player found the knot, managed the Warden, and arrived
+  with time to spare — Dale opens the waterproofed case on the
+  return voyage and shows them the records. Not describes. Shows.
+  DALE: "The fog is moving away from something. Something that was
+  here before the Alliance, before the fog, before any of this.
+  And whatever it is — your mast knows what it is."
+  This is the real reward. It points directly at R242.
+
+THE SUMMARY PAGE (if found at the anchorage):
+  One page. A year of fog movement in a single diagram. The source
+  marked with an X. Useful now. Essential later.
+
+THE WARDEN'S RECOGNITION (if resolved by letting the mask respond):
+  Not an object. A relationship. Future fog voyages: the Warden
+  does not investigate the vessel. The Sinochia clans notice that
+  the fog does not react to this ship the way it reacts to strangers.
+  Doors open that do not open for outsiders.
+
+THE ACME CUTTER (if chip was planted — return voyage):
+  Waiting at the margin. Three crew, two Shinyman Enforcers, one
+  specialist (records handler, not a fighter).
+  Telegraph the danger: as they approach the margin, the mask's
+  vibration changes again — not the Warden, something else. Metal
+  and purposeful. Dale notices it too: "We have company outside."
+  The cutter crew has been waiting a week. They are cold and tired.
+  The specialist separates from the enforcers easily if the player
+  is clever. Fenn has a Foundation signal flare he has not mentioned.
+  He will use it without asking if the situation is bad enough.
+
+
+================================================================================
+FAILING FORWARD
+================================================================================
+
+FAIL — Player doesn't take the contract:
+  Dale waits her full window, attempts to move on her own, is taken
+  by the Acme cutter at the margin. Records destroyed. Dale held.
+  Hall sends another message. Not a contract this time. A request.
+  The player owes him one.
+
+FAIL — Player loses Dale to the Acme cutter on the return:
+  The summary page (if found) and the Sinochia copies at the anchorage
+  survive. Dale is alive — Acme needs her to explain the records before
+  destroying them. There is a window to get her back. Shorter than the
+  first window. The Sinochia copies cannot be destroyed without Acme
+  entering Sinochia waters directly.
+
+FAIL — Player navigates badly and misses Dale entirely:
+  Dale moves again. Leaves another marker. The player re-enters the fog.
+  The Sinochia patrol has now logged an unknown vessel in their waters.
+  The next entry is not clean. The Warden, if unresolved, is still there.
+
+================================================================================
+END OF MODULE
+================================================================================

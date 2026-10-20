@@ -48,7 +48,7 @@ WHAT THE PLAYER DOESN'T KNOW:
     is not waterproofed. They have it in a coat pocket or a chart
     tube — if the tube is sealed, it survives. If not, they have
     maybe two hours of legibility once inside the margin.
-  - Whether the Acme tracking chip was planted. This is still
+  - Whether the Acme periapt was planted. This is still
     unresolved from Liege.
 
 GM NOTE — THE CHART:
@@ -58,12 +58,16 @@ GM NOTE — THE CHART:
   not a trap — it is a consequence of preparation. Either outcome
   is interesting.
 
-GM NOTE — THE TRACKING CHIP:
-  Decide now whether Mira Solt planted it. If yes: an Acme cutter
-  is already following at distance. It will not enter the fog —
-  Acme does not sail the fog willingly. But it will be waiting
-  at the margin when they come out. If no: Acme has lost the trail
-  for now. Either is fine. Pick one and commit.
+GM NOTE — THE PERIAPT:
+  Decide now whether Mira Solt planted it. A periapt is a small carved
+  stone or bone charm on a cord — the kind of thing sailors loop over
+  a masthead for luck. It looks like a cheap trinket. Zephyr has the
+  paired focus (a crystal ball) and can scry through it once per day
+  to read the vessel's position. It does not work inside the fog.
+  If yes: an Acme cutter left Liege within hours of them. It has a
+  week to get into position at the fog margin. It will be there when
+  they come out. If no: Acme has lost the trail for now.
+  Either is fine. Pick one and commit.
 
 
 ================================================================================
@@ -84,7 +88,7 @@ WHAT IS TRUE:
   - The light changes in the final two days. Flatter. Less shadow.
     The horizon looks wrong in a way that is hard to name. This is
     the fog's edge effect — it reaches further than the fog itself.
-  - If the tracking chip was planted, an Acme cutter left Liege
+  - If the periapt was planted, an Acme cutter left Liege
     within hours of them. It has a week to get into position at
     the fog margin. It will be there when they come out.
 
@@ -113,7 +117,7 @@ DECISIONS THE PLAYER MIGHT MAKE HERE:
     pointing at Dale?
   - Do they seal Daring's chart against moisture?
   - Do they direct Bramble to study Fenn's navigation methods?
-  - Do they tell Fenn about the tracking chip?
+  - Do they tell Fenn about the periapt?
   - Do they push hard and arrive at the margin tired, or pace
     themselves?
 
@@ -263,8 +267,8 @@ WHAT IS TRUE:
   watching him work.
 
   Then he waits. He will be at this position when they return.
-  He is exposed here — if the tracking chip was planted, an Acme
-  cutter is at the margin. Fenn does not know about the chip.
+  He is exposed here — if the periapt was planted, an Acme
+  cutter is at the margin. Fenn does not know about the periapt.
   The player may or may not have told him.
 
 WHAT THE PLAYER DOESN'T KNOW:
@@ -392,9 +396,9 @@ WHAT IS TRUE:
   Dale navigates the return. Faster. She knows these waters.
 
   At the margin, one of two things is waiting, depending on the
-  tracking chip decision made before departure:
+  periapt decision made before departure:
 
-  IF THE CHIP WAS PLANTED:
+  IF THE PERIAPT WAS PLANTED:
     An Acme cutter is holding position just outside the fog margin.
     It has been there for two days. It is not going to enter the fog.
     It is waiting for the player to come out.
@@ -446,8 +450,8 @@ Warden following the vessel     Mask is broadcasting          Seeing the displac
 Dale not at primary position    She moved when patrol         Finding the knot marker,
                                 came close                    or searching
 
-Acme cutter at the margin       Tracking chip (if planted)    No warning. They come
-                                                              out of the fog into it.
+Acme cutter at the margin       Periapt (if planted)          No warning. They come
+                                Zephyr scried position daily  out of the fog into it.
 
 Sinochia patrol arrives early   Warden still following        Dale tells them. Or they
                                 vessel signals trespass       hear it before they see it.

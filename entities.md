@@ -37,7 +37,7 @@ DM-facing. One or two sentences each. Updated as campaign progresses.
 
 **Callo Vesh** — Acme mid-level enforcer in Liege, posing as a Dagnarius factor. Already sent word to Zephyr about the mask. Coordinator, not a fighter — will flee if cornered.
 
-**Mira Solt** — Former Liege harbor pilot, now Acme fixer. Knows every blind spot in the harbor. Her job was to board the player's vessel and plant a tracking chip. Whether she succeeded is unresolved.
+**Mira Solt** — Former Liege harbor pilot, now Acme fixer. Knows every blind spot in the harbor. Her job was to board the player's vessel and loop a periapt over the masthead — a small carved bone charm on a cord, indistinguishable from a sailor's good-luck token. Whether she succeeded is unresolved.
 
 **The Brothers Kael** — Two large Acme hired hands posing as cargo handlers. Their job was to separate a player from the group. Clocked by the player on the walk to the docks; likely adjusted their approach.
 
@@ -61,7 +61,7 @@ DM-facing. One or two sentences each. Updated as campaign progresses.
 
 **Daring's Margin Chart** — Hand-drawn copy of the Sinochia fog margin. Shows the current boundary, the previous boundary as a dotted line, and a pre-Alliance mark in older ink at the point the fog moved away from. The approach vector for the next leg.
 
-**The Acme Tracking Chip** — Small arcane resonance device. Mira Solt's job was to plant it in the player's hold. Whether it was planted is unresolved — players won't know unless they search.
+**The Acme Periapt** — A small carved stone or bone charm on a cord. Mira Solt's job was to loop it over the player's masthead, where it passes as a sailor's good-luck token. Zephyr holds the paired focus (a crystal ball) and can scry through it once per day to read the vessel's position. Does not function inside the Sinochia fog. Whether it was planted is unresolved — players won't know unless they examine the masthead.
 
 **The Brass Compass Rose** — Decorative, no practical use. Bought from Chewzwiki as a matter of habit. Worth exactly what it cost.
 
@@ -83,7 +83,7 @@ DM-facing. One or two sentences each. Updated as campaign progresses.
 
 ## OPEN THREADS
 
-- Did Mira Solt plant the tracking chip?
+- Did Mira Solt plant the periapt?
 - Who are the two men at the Mersling who mentioned the old dock?
 - Who is the New Portiguan woman?
 - Who is the broadsheet man at the Anchor & Compass?

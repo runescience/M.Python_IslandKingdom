@@ -159,9 +159,12 @@ The players can:
      headed next.
 
 If Mira Solt gets aboard the sloop, she will not steal the mask — she can't
-detach it. But she will plant a tracking device (a small arcane resonance
-chip, Acme technology) in the hold. The players won't know it's there unless
-they search carefully.
+detach it. But she will loop a periapt over the masthead: a small carved
+bone charm on a cord, the kind of thing sailors hang on a mast for luck.
+It looks like a cheap trinket. It is not. Zephyr has the paired focus —
+a crystal ball — and can scry through the periapt once per day to read
+the vessel's position. The players won't know it's there unless they
+examine the masthead carefully and think to question what they find.
 
 --- PROBLEM 3: SABLE MOURNE AND THE HARBOR PYLON (Clock: Flexible) ---
 
@@ -212,8 +215,9 @@ Their logical next move is to leave Liege. The question is which direction.
 
 ROUTE A: NORTH THROUGH DAGNARIUS (06,03)
   - Safest from Alliance patrols. No paperwork required.
-  - Acme has agents in Dagnarius (per the Kingdom Compendium). The tracking
-    chip (if planted) will lead Callo Vesh's report directly to them.
+  - Acme has agents in Dagnarius (per the Kingdom Compendium). The periapt
+    (if planted) will give Zephyr daily position readings, and Callo Vesh
+    will have a cutter in position before the players arrive.
   - Fenn's courier contract, if accepted, runs through Sinochia fog waters —
     which means passing near Dagnarius anyway.
   - Encounter risk: Moderate. Acme presence, but no Axis.
@@ -239,12 +243,12 @@ ADVERSARY MOVEMENTS DURING THE NEXT LEG (WHEREVER THEY GO)
 ================================================================================
 
 ACME:
-  - If the tracking chip was planted, Callo Vesh will file a route report
-    within 12 hours of the players leaving port. Acme will have a vessel
-    positioned to intercept within 3-4 days of sailing.
-  - If the chip was not planted (players found and removed it, or Mira Solt
-    was caught), Acme loses the trail temporarily. They will pick it up again
-    at the next port the players enter.
+  - If the periapt was planted, Zephyr will have a daily position fix from
+    the moment they leave port. Acme will have a vessel positioned to
+    intercept within 3-4 days of sailing.
+  - If the periapt was not planted (players found and removed it, or Mira
+    Solt was caught), Acme loses the trail temporarily. They will pick it
+    up again at the next port the players enter.
   - Zephyr's personal interest is now engaged. He will not send fixers again.
     He will send a proper retrieval team: a fast Acme cutter with six
     Shinyman Enforcers and a specialist whose job is to detach the mask from
