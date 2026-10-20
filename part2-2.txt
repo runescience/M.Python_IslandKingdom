@@ -1,0 +1,568 @@
+================================================================================
+PART 2 — THE FOG VOYAGE
+Five Stages: Liege to Wendy Dale
+================================================================================
+
+STRUCTURE OVERVIEW
+------------------
+Fenn navigates the first half. He knows the approach corridors, the old
+Alliance survey lines, the safe headings. He does not know what is inside
+the fog — nobody does, except people who live there.
+
+At the midpoint he stops. He has taken them as far as he can. From here,
+Dale's position is three hours deeper into the fog, and the only way to
+reach it is to go in without a reliable chart.
+
+Five stages across this arc. Each one has a distinct character.
+
+  STAGE 1 — EXPLORATION: Open Water (Liege to the fog margin, one week)
+  STAGE 2 — TRICK: The Margin (the fog edge, where things are not what they seem)
+  STAGE 3 — CONFLICT: The Interior (something in the fog has noticed the mask)
+  STAGE 4 — RESOLUTION: The Handoff (Fenn's limit, Dale's position, the choice)
+  STAGE 5 — REWARD: Dale and the Records (what they came for, and what it costs)
+
+Travel time: approximately one week from Liege to the fog margin
+(Liege 03,04 to Sinochia 03,05 — one hex, one week's sailing), then
+several hours inside. Fenn is aboard for all of it.
+
+
+================================================================================
+STAGE 1 — EXPLORATION: THE DAGNARIUS PASSAGE
+================================================================================
+
+WHAT THIS IS:
+  Open water. One week of sailing from Liege. Alliance waters
+  thinning to open sea as they approach the Sinochia margin.
+  The players have time to breathe, to talk, to notice things. This is the
+  stage where the world shows them what they are sailing into before they
+  are inside it.
+
+SETTING:
+  One week of sailing. Alliance waters for the first two days, then
+  open sea. The Sinochia coastal current begins pushing against the
+  hull from the southwest around day three. The mask starts vibrating
+  around day four — subtle, toward the fog. The light changes in the
+  final two days. Flatter. Less shadow. The horizon looks wrong in a
+  way that is hard to name.
+
+FENN'S BEHAVIOR:
+  He navigates from the bow. He does not explain his choices. He makes
+  small corrections to heading that the players can observe but not
+  account for — there is no visible reason to adjust course, but he
+  adjusts it anyway, and the adjustment is always correct.
+
+  On the second evening, if the players ask him about the fog, he will
+  say one thing:
+
+  FENN: "The margin is not a wall. It is a gradient. You will not know
+  you are in it until you have been in it for an hour. By then the
+  question is not whether to enter — it is how to move inside it."
+
+  He does not elaborate.
+
+THE MASK:
+  On the second day, the mask begins vibrating at irregular intervals.
+  Not toward Liege — toward the fog. The vibration is subtle enough that
+  only someone watching for it will notice. Bramble notices. He does not
+  say anything. He watches the masthead the way you watch a compass that
+  is starting to drift.
+
+ENCOUNTER — THE LIEGE PATROL:
+  A Liege naval patrol vessel comes alongside on day one or two.
+  Routine clearance check. Fenn handles it. The papers are good.
+  The vessel is logged and cleared. This is unremarkable.
+
+WHAT THE PLAYERS LEARN HERE:
+  - Fenn has Foundation-level documentation. He is more connected than
+    he presents.
+  - The mask is responding to something ahead. Whatever is in the fog
+    is already aware of them, or will be.
+  - Alliance waters give way to open sea. A week of sailing before
+    the fog margin. Time to prepare, ask questions, watch Fenn work.
+
+REWARD (STAGE 1):
+  Information. The players have a clear picture of what they are sailing
+  toward. They have seen Fenn's competence. They have a day of calm water
+  to prepare, check equipment, and decide how they want to handle what
+  comes next.
+
+
+================================================================================
+STAGE 2 — TRICK: THE MARGIN
+================================================================================
+
+WHAT THIS IS:
+  The fog edge. This is where the world starts lying to you. Not
+  dramatically — not monsters and lightning. Quietly. The kind of lying
+  that makes you doubt your instruments before you doubt the fog.
+
+SETTING:
+  The fog margin is not a wall. Fenn was right. It is a gradient — a
+  thickening of the air that happens over the course of an hour until
+  the horizon is gone and the light is sourceless and flat. The water
+  is calm. Too calm. No chop, no swell. The surface looks like grey
+  glass. Sound carries differently — voices from the deck sound close
+  even when the speaker is at the bow.
+
+  The fog smells of salt and something else. Cold stone. The smell of
+  a room that has been closed for a long time.
+
+THE TRICK — ECHO VESSELS:
+  At the margin, the players will see other vessels. Shapes in the fog.
+  Sails. Running lights. The silhouettes of ships moving on parallel
+  courses.
+
+  They are not there.
+
+  The fog margin produces acoustic and visual echoes of vessels that
+  have passed through it — not ghosts, not supernatural in the dramatic
+  sense, but a property of the fog itself. The echoes are imperfect.
+  A vessel that passed through three days ago will appear as a slightly
+  wrong version of itself — the rigging slightly off, the running lights
+  the wrong color, the heading slightly inconsistent with the wind.
+
+  The trick: one of the echo vessels is the players' own ship. A version
+  of Hound's Dream, slightly wrong, running a parallel course fifty yards
+  to port. It will be visible for approximately ten minutes before the
+  fog swallows it.
+
+  Fenn sees it. He does not react. He has seen this before.
+
+  If the players ask him about it:
+
+  FENN: "The margin shows you what has passed through. Sometimes it
+  shows you what is about to. I have never been able to tell which
+  is which."
+
+  He adjusts course by two degrees and does not look at the echo again.
+
+THE NAVIGATION PROBLEM:
+  Inside the margin, the players' compass begins to drift. Not wildly —
+  just a degree or two of inconsistency that compounds over time. Fenn
+  navigates by dead reckoning and by a set of small personal marks he
+  has made on his own charts — distances from known fog features, timing
+  of current changes, the behavior of the water surface at specific
+  depths.
+
+  He is doing something the players cannot fully replicate. They can
+  observe it. They can learn from it. But they cannot do it themselves
+  yet.
+
+  Bramble's navigation bonus applies here: he can track Fenn's corrections
+  and begin to understand the pattern. This will matter in Stage 4.
+
+THE MASK ESCALATES:
+  Inside the margin, the mask's vibration becomes directional. It is
+  pointing somewhere specific — not toward Dale's position, which is
+  ahead, but off to the northeast. Toward the pre-Alliance mark on
+  Daring's chart.
+
+  The mask is pulling toward something. The players can follow the pull
+  or ignore it. Fenn will not follow it — his job is Dale, not the
+  mask's pull. But it is there, and it is getting stronger.
+
+  DM NOTE: The pre-Alliance mark is not accessible this voyage. It is
+  a thread for later. The mask's pull is information, not a directive.
+  Do not let it derail the mission — but do not let the players forget
+  it either.
+
+WHAT THE PLAYERS LEARN HERE:
+  - The fog is not navigable by standard instruments. It requires
+    knowledge that Fenn has and they don't — yet.
+  - The echo vessels are a property of the margin, not a threat. But
+    they are disorienting, and disorientation is the fog's primary weapon.
+  - The mask is pulling toward something that is not their destination.
+    The Lignum Vitae relic has its own pull inside these waters.
+
+REWARD (STAGE 2):
+  Passage. They are through the margin and into the interior. Fenn's
+  navigation has held. The compass drift is manageable. They are where
+  they need to be, and they have learned something about how the fog works.
+
+
+================================================================================
+STAGE 3 — CONFLICT: THE INTERIOR
+================================================================================
+
+WHAT THIS IS:
+  Something in the fog has noticed the mask. This is the conflict Fenn
+  warned them about. It is not an Acme retrieval team — that threat is
+  behind them, in open water. This is something older, and it is not
+  hostile in the way a person is hostile. It is territorial.
+
+SETTING:
+  The interior of the fog is quieter than the margin. The echo vessels
+  are gone. The water is still. The fog is thick enough that the bow
+  is barely visible from the stern. Sound is muffled except for the
+  creak of the rigging, which is very loud.
+
+  The light is wrong. It is midday but the light is the color of late
+  afternoon. There are no shadows.
+
+THE THING IN THE FOG — THE WARDEN:
+  The Sinochia fog waters have a guardian. Not a creature in the
+  conventional sense — more accurately, a presence. The locals call
+  it the Warden. It is not malevolent. It is a function: it maintains
+  the fog, it tracks what moves through it, and it responds to things
+  that do not belong.
+
+  The mask does not belong. The mask is broadcasting — pre-Alliance
+  resonance, the Lignum Vitae pull toward the mark on Daring's chart.
+  The Warden has been tracking them since the margin. Now it moves
+  to investigate.
+
+WHAT THE WARDEN DOES:
+  It does not attack. It circles. The players will become aware of it
+  as a displacement in the fog — a shape that is slightly denser than
+  the surrounding grey, moving at the edge of visibility. It is large.
+  The water surface disturbs slightly as it passes beneath the hull.
+
+  The mask responds to it. The vibration changes character — less
+  directional, more urgent. The Lignum Vitae relic is reacting to
+  something it recognizes. Whatever the Warden is, the mask has
+  encountered something like it before.
+
+THE CONFLICT — THREE OPTIONS:
+
+  OPTION A — SILENCE THE MASK (Trick/Skill):
+    The players can attempt to dampen the mask's broadcast. They cannot
+    remove it, but they can cover it — heavy canvas, rope, anything that
+    physically muffles the masthead. This will not stop the Warden from
+    knowing they are there, but it will reduce the signal enough that
+    the Warden loses specific interest.
+
+    Fenn knows this. If asked, he will tell them. He will not volunteer it.
+
+    Mechanical: A successful seamanship or rigging check. Bramble can
+    assist. If successful, the Warden circles twice more and then
+    withdraws. If failed, the Warden moves closer.
+
+  OPTION B — HOLD COURSE AND WAIT (Endurance):
+    The Warden is not attacking. It is investigating. If the players
+    hold course, maintain speed, and do not react to it, it will
+    eventually determine that they are passing through rather than
+    stopping, and it will withdraw.
+
+    This requires nerve. The Warden will come close enough that its
+    displacement wave rocks the hull. The fog will thicken around the
+    vessel for approximately twenty minutes. It will feel like being
+    watched by something very large in a very small room.
+
+    Mechanical: A morale or resolve check for the crew. Bramble holds.
+    Any NPC crew members may not.
+
+  OPTION C — ACKNOWLEDGE IT (Roleplay/Lore):
+    If the players allow the mask to respond — stop trying to muffle
+    it, hold position, let the vibration do what it is doing — the
+    mask will produce a low tone. Not music. A frequency. The Warden
+    will stop circling.
+
+    This is the correct option in the long term. It establishes a
+    relationship between the players and the Warden that will matter
+    in future fog voyages. But it requires trusting the mask's nature,
+    which is not a small thing.
+
+    Fenn does not know about this option. He will watch it happen
+    with the expression of a man revising his understanding of
+    something he thought he understood.
+
+WHAT HAPPENS AFTER:
+  Regardless of which option the players choose, the Warden withdraws.
+  The fog thins slightly. The water surface settles. The mask's vibration
+  returns to its directional pull — toward the pre-Alliance mark, steady,
+  insistent.
+
+  Fenn exhales. Just once. Then he adjusts course and says nothing.
+
+WHAT THE PLAYERS LEARN HERE:
+  - The fog has a guardian. It is not hostile, but it is not neutral
+    either. It responds to what the mask broadcasts.
+  - The Lignum Vitae mask has a relationship with the Warden that
+    predates the Alliance. It has history in these waters.
+  - How they handled the Warden will affect future fog voyages. The
+    Warden remembers.
+
+REWARD (STAGE 3):
+  Passage through the interior. The Warden has withdrawn. The route
+  to Dale's position is clear. And if they chose Option C, they have
+  something more: a tentative acknowledgment from the oldest thing
+  in these waters that they are not entirely unwelcome.
+
+
+================================================================================
+STAGE 4 — RESOLUTION: THE HANDOFF
+================================================================================
+
+WHAT THIS IS:
+  Fenn's limit. He has brought them as far as he can. From here, the
+  navigation requires knowledge he does not have. This is the stage
+  where the players have to operate without their most competent NPC,
+  and where what they have learned in Stages 1-3 becomes the resource
+  they use to proceed.
+
+SETTING:
+  A specific point in the fog interior — Fenn knows it by a combination
+  of elapsed time, current behavior, and a personal mark on his chart.
+  There is nothing visually distinctive about this location. The fog
+  looks the same as it has for the last two hours. But Fenn stops the
+  vessel.
+
+FENN'S LIMIT:
+  He brings them to a stop and turns to face the players. He is not
+  apologetic. He is precise.
+
+  FENN: "This is as far as my charts go. Dale's position is three
+  hours deeper on a heading of roughly northwest by north — but
+  roughly is the problem. The fog shifts the approach. I have never
+  been to her position. I know the general direction. I do not know
+  the specific route."
+
+  He pauses.
+
+  FENN: "Your compass will drift another two to three degrees per
+  hour from here. You correct for it by watching the water surface —
+  the current runs slightly warmer on the correct heading. Not much.
+  A degree of temperature. But it is consistent."
+
+  He looks at Bramble.
+
+  FENN: "Your navigator has been watching me work. He knows the
+  pattern. He can hold the heading if he trusts what he has learned."
+
+  He looks back at the players.
+
+  FENN: "I will hold position here. When you have Dale, come back
+  on the reciprocal heading. I will be here."
+
+  He says it with the certainty of a man who has waited in worse places.
+
+THE NAVIGATION CHALLENGE:
+  Three hours of fog navigation without Fenn. The compass drifts.
+  The current temperature differential is real but subtle. Bramble
+  can track it — his navigation bonus applies, and what he observed
+  in Stage 2 gives him the pattern.
+
+  The mask helps. Its directional pull toward the pre-Alliance mark
+  is northeast; Dale's position is northwest. The players can use the
+  mask as a negative reference — if the pull is directly to starboard,
+  they are on the correct heading. If it shifts forward or aft, they
+  have drifted.
+
+  This is not a guaranteed success. It is a skill challenge with
+  meaningful failure states:
+    - Minor drift: They arrive at Dale's position an hour late. She
+      is still there, but she has been watching the fog for signs of
+      pursuit and she is wound tight.
+    - Major drift: They miss Dale's position entirely and have to
+      backtrack. This costs time and brings them back through the
+      area where the Warden withdrew — which may or may not still
+      be watching.
+
+WHAT THE PLAYERS LEARN HERE:
+  - Fenn's competence has a limit. He is not omniscient. He is
+    experienced, and experience has edges.
+  - The mask is a navigation tool as well as a liability. Its
+    directional pull can be used as a reference bearing.
+  - Bramble is more capable than he presents. He has been learning
+    the whole voyage. This is where that pays off.
+
+REWARD (STAGE 4):
+  They find Dale's position. The navigation worked — imperfectly,
+  probably, but it worked. They are three hours deeper into the fog
+  than anyone without local knowledge should be able to reach. That
+  is not nothing.
+
+
+================================================================================
+STAGE 5 — REWARD: DALE AND THE RECORDS
+================================================================================
+
+WHAT THIS IS:
+  The mission objective. But the reward is not just Dale and her charts —
+  it is what the charts contain, and what that means for everything the
+  players have been moving toward since the harbor pylon.
+
+SETTING:
+  Dale's position is a small Sinochia clan anchorage — three structures
+  on a low rock shelf, barely above the waterline, accessible only from
+  the water. The fog is thinner here, close to the rock. The structures
+  are old. One of them is a chart house — a working space, not a home.
+  Dale has been using it for a year.
+
+  A single lamp is burning in the chart house window. She has been
+  watching for them.
+
+WENDY DALE — FIRST IMPRESSION:
+  She is not what the players might have expected from Fenn's description.
+  She is not frightened. She is not grateful. She is practical, slightly
+  impatient, and carrying a waterproofed case that she does not put down.
+
+  She looks at the vessel. She looks at the masthead. She looks at the
+  players.
+
+  DALE: "You're late. I've been watching the fog for two hours."
+
+  She steps aboard without waiting to be invited.
+
+  DALE: "Fenn is at the midpoint?"
+
+  You confirm it.
+
+  DALE: "Good. We need to move. Sinochia patrol comes through this
+  anchorage every six hours. We have approximately ninety minutes."
+
+THE RECORDS:
+  The waterproofed case contains one year of fog margin documentation.
+  Dale will not open it here. She will not describe its contents in
+  detail. What she will say, if pressed:
+
+  DALE: "The margin has been moving consistently northwest for eleven
+  months. Not drifting — moving. There is a pattern to it. The pattern
+  has a source. I know approximately where the source is. I do not know
+  what it is."
+
+  She looks at the masthead again.
+
+  DALE: "That thing on your mast. It has been pulling toward the
+  northeast since you entered the fog. I could feel it from the
+  anchorage. Whatever it is responding to — that is the direction
+  the fog is moving away from."
+
+  She says it matter-of-factly, the way you say something you have
+  been sitting with for a long time and are relieved to finally say
+  out loud.
+
+  DALE: "I think they are connected. The mark on the old charts and
+  whatever is in your masthead. I think they are part of the same
+  thing. I do not know what that thing is."
+
+  She picks up the case.
+
+  DALE: "That is why Acme wants my records destroyed. Not because
+  of the fog. Because of what the fog is moving away from."
+
+THE COST:
+  Before they leave, Dale goes back into the chart house. She comes
+  out with a second, smaller case. She sets it on the dock.
+
+  DALE: "Sinochia copies. Everything I documented, duplicated. I
+  am leaving these here. If something happens to me and the primary
+  records, the copies stay in Sinochia waters. They will find their
+  way to the clan archivists eventually."
+
+  She looks at the players.
+
+  DALE: "I am not leaving Sinochia empty-handed. I am leaving with
+  the records and with the knowledge. The copies stay. That is the
+  arrangement I made with myself when I decided to go."
+
+  She steps aboard. She does not look back at the chart house.
+
+  DALE: "Now let's go find Fenn."
+
+WHAT THE PLAYERS HAVE AT THE END OF STAGE 5:
+  - Wendy Dale, aboard, with the primary fog records
+  - Confirmation that the mask's pull and the fog's movement are
+    connected — both pointing toward the pre-Alliance mark on
+    Daring's chart
+  - A clearer picture of what Acme is actually protecting: not
+    just the fog charts, but the source of the fog movement itself
+  - The knowledge that Sinochia copies exist — which means the
+    records cannot be fully destroyed even if Acme gets to Dale
+  - A ninety-minute window before the Sinochia patrol arrives
+
+REWARD (STAGE 5):
+  The mission objective, plus the thread that makes the next leg
+  inevitable. The pre-Alliance mark on Daring's chart is not just
+  a cartographic curiosity. It is the source. And now two people
+  aboard the vessel — Dale and the mask — are pointing at it.
+
+
+================================================================================
+RETURN PASSAGE — NOTES
+================================================================================
+
+The return to Fenn's position is faster. Dale knows these waters.
+She navigates from the bow without instruments, by current feel and
+fog behavior. She does not explain what she is doing. She just does it.
+
+Fenn, when they reach him, looks at Dale for a long moment.
+
+FENN: "You look well."
+
+DALE: "I look like someone who has been in a fog anchorage for
+three days. Let's go."
+
+The return through the margin is uneventful. The echo vessels appear
+again. Dale ignores them. The Warden does not reappear — or if it does,
+it does not make itself known.
+
+They clear the margin at dusk on the second day. Open water. The fog
+is behind them. Open water. Liege is a week back.
+
+Fenn sets course for the rendezvous point. He does not say where
+that is yet.
+
+Dale opens the waterproofed case for the first time since boarding.
+She checks the records. She closes it again. She looks at the masthead.
+
+She does not say anything. But she is thinking.
+
+
+================================================================================
+DM NOTES — STAGE MECHANICS SUMMARY
+================================================================================
+
+STAGE 1 (Exploration):
+  - Dagnarius cutter encounter: removed — wrong geography. Replaced
+    with a routine Liege patrol clearance on day one. Unremarkable.
+  - Mask begins responding. Bramble notices.
+  - Reward: information and a clear day to prepare.
+
+STAGE 2 (Trick):
+  - Echo vessels: disorienting, not dangerous. The players' own echo
+    is the key image. Fenn's non-reaction is the tell.
+  - Compass drift: navigation challenge begins. Bramble starts
+    tracking Fenn's corrections.
+  - Mask pull toward pre-Alliance mark: plant the thread, do not
+    resolve it.
+  - Reward: passage through the margin.
+
+STAGE 3 (Conflict):
+  - The Warden: three resolution options. Option C (acknowledge it)
+    is the best long-term choice but requires trusting the mask.
+  - No combat. The Warden is not an enemy. Treating it as one is
+    a mistake with future consequences.
+  - Reward: passage through the interior, and potentially a
+    relationship with the Warden.
+
+STAGE 4 (Resolution):
+  - Fenn's limit: he stops here. Players navigate the last three
+    hours without him.
+  - Bramble + mask as navigation tools. Failure states are time
+    costs, not dead ends.
+  - Reward: Dale's position reached.
+
+STAGE 5 (Reward):
+  - Dale is competent and unsentimental. She is not a rescue object.
+    She has already made her own arrangements (the copies).
+  - The connection between the mask and the fog movement is confirmed
+    by Dale independently. This is the payoff for everything since
+    the harbor pylon.
+  - The ninety-minute window creates urgency without combat.
+  - Reward: Dale, the records, and the thread that makes R242 inevitable.
+
+OPEN THREADS ADDED THIS STAGE:
+  - The Warden: remembers how the players handled it. Will respond
+    differently on future fog voyages depending on Stage 3 choice.
+  - The Sinochia copies: exist, in the clan anchorage. Cannot be
+    destroyed by Acme without entering Sinochia waters directly.
+  - The pre-Alliance mark: confirmed as the source of the fog
+    movement by Dale's independent documentation. R242 is next.
+  - The officer who logged the vessel: Liege naval registry. Not a
+    threat now. Becomes one if the Harwick Dray customs flag was
+    never resolved.
+
+================================================================================
+END OF DOCUMENT
+================================================================================

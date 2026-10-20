@@ -70,22 +70,20 @@ What Fenn is doing RIGHT NOW:
   - If the players don't show up, Fenn will try once more, then write them
     off as uncontrollable assets and report back to Hall accordingly.
 
---- R. ASILOM (THE ENTITY) ---
+--- THE LIGNUM VITAE MASK ---
 
-The Lignum Vitae mask is still fused to the masthead. R. Asilom's fragments
-are still in it. Being this close to a major Alliance port — with its ancient
-harbor infrastructure, its deep-water moorings, its centuries-old stone
-foundations — is activating something in the entity.
+The Lignum Vitae mask is still fused to the masthead. Being this close to a
+major Alliance port — with its ancient harbor infrastructure, its deep-water
+moorings, its centuries-old stone foundations — is activating something in
+the relic.
 
-What R. Asilom is doing RIGHT NOW:
-  - The mask has begun vibrating at irregular intervals, always when pointed
-    toward the old harbor district. There is something buried under Liege's
-    oldest dock — a sealed stone chamber, pre-Alliance construction, that the
-    city's founders built over and forgot.
-  - The entity is not strong enough to act directly. But it is broadcasting.
-    Anyone sensitive to arcane energy in Liege — and there are a few — will
-    have started having strange dreams in the last 48 hours. Dreams of water,
-    of gates, of a melody they can't quite place.
+What the mask is doing RIGHT NOW:
+  - It has begun vibrating at irregular intervals, always when pointed toward
+    the old harbor district. It is responding to something pre-Alliance on
+    the harbor floor.
+  - It is broadcasting. Anyone sensitive to such things in Liege — and there
+    are a few — will have started having strange dreams in the last 48 hours.
+    Dreams of water, of gates, of a melody they can't quite place.
   - One of those dreamers is a Liege harbor archivist named SABLE MOURNE, who
     has been quietly excavating the old harbor records for years, convinced
     something important is buried under the oldest dock. She will find the
@@ -165,36 +163,37 @@ detach it. But she will plant a tracking device (a small arcane resonance
 chip, Acme technology) in the hold. The players won't know it's there unless
 they search carefully.
 
---- PROBLEM 3: SABLE MOURNE AND THE BURIED GATE (Clock: Flexible) ---
+--- PROBLEM 3: SABLE MOURNE AND THE HARBOR PYLON (Clock: Flexible) ---
 
 The harbor archivist finds the players. She is nervous, sleep-deprived, and
 carrying a rolled-up set of pre-Alliance harbor charts that she has been
 collecting for years. She doesn't know what she's looking for. She just knows
-the players' ship is connected to whatever is under the old dock.
+the players' ship is connected to whatever is on the harbor floor.
 
 If the players engage with her:
   - She shows them the charts. The oldest dock in Liege was built over a
-    sealed stone chamber that predates the Alliance by at least 400 years.
-    The chamber is marked on the original survey maps with a symbol the
-    players may recognize: the same glyph that appeared on the Emeritus
+    section of harbor floor that the original survey maps mark with a symbol
+    the players may recognize: the same glyph that appeared on the Emeritus
     Colony databanks from Chapter 4.
-  - The mask vibrates violently when pointed at the dock. R. Asilom is
-    trying to reach whatever is down there.
-  - Getting into the chamber requires either bribing the dock authority
-    (expensive), forging a survey permit (risky), or going in at night
-    through the water (dangerous, but the players have diving bladders).
+  - The mask vibrates when pointed at the old dock — the Lignum Vitae
+    relic responding to something pre-Alliance on the harbor floor.
+  - Getting a look at it requires a dive. The harbor floor is accessible
+    at night from the water side of the far pier. Murky, cold, maybe
+    twenty feet down.
 
-What's in the chamber:
-  - A dormant transit gate. Not active. Not even close to active. But intact.
-    The first one the players have seen in person.
-  - A stone inscription in a language that matches fragments from the Emeritus
-    databanks. It describes the gate network and names the nearest active
-    node: somewhere in the Ruined Charts (R242, 03,06).
-  - Evidence that someone else has been here recently. Boot prints in the
-    dust. A Acme Corporation seal stamp, dropped and forgotten.
+What's on the harbor floor:
+  - A stone pylon, pre-Alliance construction, jutting from the silt at
+    an angle. Not buried — just sitting there, unremarkable, the kind of
+    thing divers and harbor workers have seen for years without knowing
+    what it is. Roughly eight feet of it is visible above the silt line.
+  - Markings on the pylon's upper face match fragments from the Emeritus
+    databanks. The same glyph system. The same construction style.
+  - Recent scrape marks in the silt around the base. Someone else has
+    been down here. Not long ago.
+  - An Acme Corporation seal stamp, dropped in the silt near the base.
 
-This is the hook for the next leg of the journey: the Ruined Charts, and
-whatever Acme is doing there.
+This is the hook for the next leg: whatever the pylon is part of, Acme
+has already found it and is already moving on the information.
 
 
 ================================================================================
@@ -203,7 +202,7 @@ THE NEXT LEG: ROUTE OPTIONS AND WHAT WAITS THERE
 
 The players now have:
   - The global map (from Chapter 4, either extracted or imprinted by the Gaxo)
-  - Knowledge of the buried gate under Liege's old dock
+  - Knowledge of the harbor pylon beneath Liege's old dock
   - An inscription pointing toward R242 (03,06) in the Ruined Charts
   - Acme actively hunting them
   - A potential Foundation contact in Fenn (if they took the meeting)
@@ -245,7 +244,7 @@ ACME:
     positioned to intercept within 3-4 days of sailing.
   - If the chip was not planted (players found and removed it, or Mira Solt
     was caught), Acme loses the trail temporarily. They will pick it up again
-    at the next port the players enter — Acme has eyes in every major harbor.
+    at the next port the players enter.
   - Zephyr's personal interest is now engaged. He will not send fixers again.
     He will send a proper retrieval team: a fast Acme cutter with six
     Shinyman Enforcers and a specialist whose job is to detach the mask from
@@ -261,17 +260,10 @@ ADMIRAL HALL / FENN:
     message left at a neutral port (Dagnarius or Bartog), signed only with
     the Foundation's symbol.
 
-R. ASILOM:
-  - The entity now knows there is a dormant gate in Liege. It cannot act on
-    this directly. But it will begin subtly influencing the mask's navigation
-    pull — steering the players toward R242 whether they intend to go there
-    or not. The mask's compass interference will become more pronounced the
-    closer they get to the Ruined Charts.
-  - If the players resist the pull long enough, the entity will attempt
-    something more direct: a dream-intrusion, similar to the Gaxo's
-    dream-weaving but corrupted. The players will wake from it unsettled,
-    with fragmented images of a gate opening and something vast moving
-    through it.
+THE MASK:
+  - The Lignum Vitae relic is responding to the pre-Alliance pylon on the
+    harbor floor. Its navigation pull will continue steering toward R242
+    whether the players intend to go there or not.
 
 THE AXIS:
   - The captured Pote raider in Liege harbor is a ticking clock. If the
@@ -311,7 +303,7 @@ SABLE MOURNE
   Appearance: Mid-thirties, ink-stained fingers, carries too many rolled
               charts. Looks perpetually sleep-deprived.
   Motivation: Academic obsession with pre-Alliance harbor history. Has no
-              idea she's been dream-influenced by R. Asilom. Genuinely just
+              idea the mask's broadcast caused her dreams. Genuinely just
               wants to know what's under the dock.
   Note: Useful as a recurring NPC. She has access to Liege's historical
         records and can provide research support for future investigations

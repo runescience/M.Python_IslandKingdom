@@ -122,15 +122,15 @@
       "first_seen": "part2-1a"
     },
     {
-      "id": "liege_buried_gate_chamber",
-      "name": "The Buried Chamber (Pre-Alliance)",
+      "id": "liege_harbor_pylon",
+      "name": "The Harbor Pylon",
       "city": "Liege",
-      "district": "Docks, beneath Far Pier old stone",
+      "district": "Harbor floor, beneath Far Pier old stone",
       "type": "ancient_structure",
-      "description": "A sealed stone chamber beneath the oldest section of the far pier dock. Pre-Alliance construction, predating the Alliance by at least 400 years. Built over by the city's founders and forgotten. Marked on original survey maps with the same glyph seen on the Emeritus Colony databanks.",
-      "notes": "Contains a dormant transit gate — the first one seen in person. Stone inscription in a language matching Emeritus databank fragments describes the gate network and names the nearest active node at R242 (03,06). Recent boot prints in the dust. An Acme Corporation seal stamp was found dropped inside. R. Asilom's fragments in the masthead mask are responding to this location — the mask vibrates when pointed toward the old dock. Access requires bribery, forged survey permit, or underwater entry.",
+      "description": "A pre-Alliance stone pylon jutting from the harbor floor silt at a slight angle, roughly twenty feet below the surface beneath the far pier. Approximately eight feet visible above the silt line. Not hidden — harbor workers and divers have seen it for years. Nobody has known what it is.",
+      "notes": "Markings on the upper face match the Emeritus Colony databank glyph system. Recent scrape marks in the silt around the base indicate someone dove here recently. An Acme Corporation seal stamp was found in the silt nearby. The mask on the masthead responds when the vessel is moored above this location. Access requires a night dive from the water side of the far pier.",
       "threat_level": "unknown",
-      "first_seen": "part2-1a"
+      "first_seen": "part2"
     }
   ]
 }

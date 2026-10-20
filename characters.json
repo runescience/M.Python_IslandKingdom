@@ -33,11 +33,12 @@
       "location": "Unknown position, 3 days' sail from Liege. Will not wait longer than that.",
       "appearance": "Unknown.",
       "bearing": "Unknown.",
-      "known_history": "Spent 11 years mapping the Sinochia fog waters from the inside — not from the edge, from inside. Has charts that do not exist anywhere else: what is in the fog, what lives there, what is built there. Has been moving carefully for 2 years to avoid Acme.",
+      "known_history": "Went to Sinochia as a culturalist — drawn by the islands, the clans, the fog coastlines. Stayed and became a working cartographer over time. Has lived inside the fog margin long enough to know what normal looks like. About a year ago noticed the fog margin shifting and began documenting it. Has a year of careful records of something wrong happening inside the fog. Sinochia considers fog charts proprietary and does not want her leaving with them. Acme wants the records destroyed.",
       "known_to_player": [
-        "Is a cartographer, not a courier",
-        "Has unique fog water charts Acme wants destroyed",
-        "Has been evading Acme for 2 years",
+        "Went to Sinochia as a culturalist, became a resident cartographer",
+        "Has documented the fog margin shifting over the last year",
+        "Sinochia does not want her leaving with fog charts",
+        "Acme wants her records destroyed",
         "Is waiting at a position Fenn will only reveal once underway",
         "Will not wait longer than 3 days from now"
       ],
@@ -117,7 +118,7 @@
       "id": "sable_mourne",
       "name": "Sable Mourne",
       "faction": "Liege Harbor Authority (archivist) / accidental ally",
-      "role": "Harbor archivist. Dream-influenced by R. Asilom. Will find the players.",
+      "role": "Harbor archivist. Dream-influenced by the mask's broadcast. Will find the players.",
       "status": "not_yet_encountered",
       "first_seen": "part2 DM doc",
       "location": "Liege. Will approach the players — she doesn't know why yet.",
@@ -126,7 +127,7 @@
       "known_history": "Has been quietly excavating old harbor records for years, convinced something important is buried under the oldest dock. Has pre-Alliance harbor charts showing the sealed stone chamber beneath the far pier. Has been having strange dreams for 48 hours: water, gates, a melody she can't place.",
       "known_to_player": false,
       "stat_block": null,
-      "notes": "Useful recurring NPC. Has access to Liege's historical records. Can provide research support for future gate network investigations. The dreams were caused by R. Asilom's fragments in the mask responding to the buried gate."
+      "notes": "Useful recurring NPC. Has access to Liege's historical records. Can provide research support for future gate network investigations. The dreams were caused by the Lignum Vitae mask broadcasting near the harbor pylon."
     },
     {
       "id": "dockworker_handcart",

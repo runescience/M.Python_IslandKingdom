@@ -162,19 +162,18 @@
       "id": "conn_11",
       "path": "VERTICAL",
       "from": "liege_far_pier",
-      "to": "liege_buried_gate_chamber",
+      "to": "liege_harbor_pylon",
       "relationship": "above_below",
-      "direction_of_travel": "down — underwater or through dock foundation",
+      "direction_of_travel": "down — night dive from water side of far pier",
       "side_of_road": {
         "liege_far_pier": "surface — old stone section, far end",
-        "liege_buried_gate_chamber": "below — sealed stone chamber in dock foundation"
+        "liege_harbor_pylon": "harbor floor — approximately 20 feet down, silt bottom"
       },
-      "border_type": "vertical_subterranean",
-      "notes": "The buried chamber is directly beneath the oldest section of the far pier. The border is the dock surface itself — the join between new and old construction is visible from above. Access from the far pier requires going through the dock foundation (bribery or forged permit) or entering from the water below (diving). Hound's Dream's berth is directly above the chamber's approximate location.",
+      "border_type": "vertical_underwater",
+      "notes": "The pylon sits on the harbor floor directly beneath the oldest section of the far pier. Visible from above water only as a dark shape in murky conditions. Access requires a dive. Night is the practical window — less traffic, less observation.",
       "access_options": [
-        "Bribe dock authority for foundation access permit",
-        "Forge a harbor survey permit",
-        "Enter from the water at night using diving bladders"
+        "Night dive from water side of far pier",
+        "Dive from Hound's Dream berth directly above"
       ]
     },
 
@@ -182,15 +181,15 @@
       "id": "conn_12",
       "path": "VERTICAL",
       "from": "liege_hounds_dream_berth",
-      "to": "liege_buried_gate_chamber",
+      "to": "liege_harbor_pylon",
       "relationship": "above_below",
-      "direction_of_travel": "down — from vessel deck through water to chamber",
+      "direction_of_travel": "down — over the side from vessel into harbor",
       "side_of_road": {
         "liege_hounds_dream_berth": "surface — vessel moored at pier end",
-        "liege_buried_gate_chamber": "below — chamber in dock foundation"
+        "liege_harbor_pylon": "harbor floor — directly below berth position"
       },
-      "border_type": "vertical_subterranean",
-      "notes": "Hound's Dream sits directly above the buried chamber. The mask on the masthead vibrates when the vessel is in this berth. A diver going over the side from Hound's Dream at night would be directly above the chamber's water-side access point. This is the most discreet entry route."
+      "border_type": "vertical_underwater",
+      "notes": "Hound's Dream is moored directly above the pylon's position. The mask on the masthead responds when the vessel is in this berth. A diver going over the side at night would descend directly to the pylon. Most discreet access point."
     }
 
   ],
@@ -219,12 +218,12 @@
       "notes": "All three piers are on the north side of the dock road. A traveler walking west passes each pier entrance in sequence. Turning north onto any pier is a branch decision. The far pier is the terminal branch."
     },
     "VERTICAL": {
-      "direction": "Surface to subterranean",
+      "direction": "Surface to underwater",
       "connections": [
-        "liege_far_pier → liege_buried_gate_chamber (dock foundation access)",
-        "liege_hounds_dream_berth → liege_buried_gate_chamber (water-side access)"
+        "liege_far_pier → liege_harbor_pylon (night dive, water side)",
+        "liege_hounds_dream_berth → liege_harbor_pylon (over the side, most discreet)"
       ],
-      "notes": "The buried chamber is accessible from two surface points. The berth access is the most discreet. Both require deliberate effort — this location does not connect passively."
+      "notes": "The pylon is on the harbor floor, accessible by dive. Not hidden — just underwater and unremarkable to anyone without context. Both surface access points require deliberate effort."
     }
   }
 }

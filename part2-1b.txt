@@ -51,19 +51,19 @@ explain himself in writing. You've noticed that."
 He pauses.
 
 FENN: "The person you'll be escorting is not a courier. She is a
-cartographer. Her name is Wendy Dale. She has spent the last eleven years
-mapping the Sinochia fog waters from the inside — not from the edge, not
-from a safe distance, from inside. She has charts that do not exist
-anywhere else. Charts of what is in the fog. What lives there. What is
-built there."
+cartographer. Her name is Wendy Dale. She went to Sinochia as a
+culturalist — the islands, the clans, the fog coastlines. She stayed.
+Picked up cartography the way you pick up a trade when you live somewhere
+long enough. She knows the fog the way locals know it."
 
 He sets his cup down.
 
-FENN: "She wants to get those charts to the Foundation's archive in
-Ombreval. Acme wants the charts destroyed and Wendy Dale with them. She has
-been moving carefully for two years. She is currently three days' sail
-from here, waiting at a position I will give you once we are underway.
-She will not wait longer than that."
+FENN: "About a year ago she started noticing the fog margin moving.
+Not drift — movement with a direction. She has been documenting it since.
+A year of careful records of something wrong happening in a place she
+knows well. Acme wants those records destroyed and Wendy Dale with them.
+She is currently three days' sail from here, waiting at a position I
+will give you once we are underway. She will not wait longer than that."
 
 He looks at you steadily.
 
@@ -76,10 +76,10 @@ you are carrying before you agree to carry it."
 You sit with that for a moment.
 
 You think about the fog waters. You think about Sinochia on the map —
-the coastal empire, the rivalry with Manchu, the waters that the Kingdom
-Compendium describes as navigable only by those who know them. You think
-about what eleven years of charts from inside that fog would be worth to
-anyone who wanted to move through those waters without being seen.
+the coastal empire, the rivalry with Manchu, the waters navigable only
+by those who know them. You think about a year of careful records
+documenting something shifting inside that fog, and what that would be
+worth to anyone who needed to know what was causing it.
 
 You think about Acme.
 
@@ -111,10 +111,10 @@ endorsement I require."
 
 You ask about the route.
 
-FENN: "North first. Through Dagnarius waters — neutral, no paperwork,
-no Alliance patrols. Then west into the fog margin. I will navigate
-the approach. Wendy Dale will navigate the interior. You provide the
-vessel and the guns."
+FENN: "Southwest from Liege, straight into the Sinochia approach.
+  Alliance waters for the first two days, then open sea. I will navigate
+  the approach to the fog margin. Wendy Dale will navigate the interior.
+  You provide the vessel and the guns."
 
 He pauses.
 

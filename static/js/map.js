@@ -100,15 +100,15 @@ const LOCS = {
   },
   liege_far_pier: {
     name: "Far Pier", type: "Pier · North Side of Dock Road — oldest", threat: "low",
-    body: "The oldest pier. Darker stone, more corroded ironwork. Vessels that don't fit the harbor authority's categories. The join between old and new construction is visible and not clean. Hound's Dream is moored at the end. The buried chamber is beneath the old stone section."
+    body: "The oldest pier. Darker stone, more corroded ironwork. Vessels that don't fit the harbor authority's categories. The join between old and new construction is visible and not clean. Hound's Dream is moored at the end. The harbor pylon sits on the floor beneath the old stone section."
   },
   liege_hounds_dream_berth: {
     name: "Hound's Dream", type: "Vessel Berth · Far Pier End", threat: "none",
     body: "40–45 feet. Single-masted, fore-and-aft rigged. Hull dark with age. Name carved plain into the stern board. Lines coiled correctly, canvas furled tight, ironwork clean. Looks ready to leave. The mast glows faintly — the mask responds to what is beneath. Fenn departs at first light."
   },
-  liege_buried_gate_chamber: {
-    name: "The Buried Gate Chamber", type: "Ancient Structure · Below Far Pier", threat: "unknown",
-    body: "Sealed stone chamber beneath the oldest dock section. Pre-Alliance — predates the Alliance by 400+ years. Contains a dormant transit gate, the first seen in person. Stone inscription names the nearest active node: R242 (03,06). Recent boot prints in the dust. An Acme seal stamp was found dropped inside. Access: bribery, forged survey permit, or underwater entry at night."
+  liege_harbor_pylon: {
+    name: "The Harbor Pylon", type: "Ancient Structure · Harbor Floor Below Far Pier", threat: "unknown",
+    body: "Pre-Alliance stone pylon on the harbor floor, roughly 20 feet down beneath the far pier. ~8 feet visible above the silt line. Unremarkable to anyone without context — harbor workers have seen it for years. Markings match the Emeritus Colony glyph system. Recent scrape marks in the silt and an Acme seal stamp nearby. The mask responds when the vessel is moored above it. Access: night dive from the water side of the far pier."
   }
 };
 
