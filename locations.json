@@ -106,7 +106,7 @@
       "district": "Docks",
       "type": "pier",
       "description": "The oldest pier. Darker stone, more corroded ironwork. Vessels here are smaller, older, or both — the ones that don't fit neatly into the harbor authority's categories. Hound's Dream is moored at the end.",
-      "notes": "Built on older stone at the far end. The join between new and old construction is visible and not clean. This is the location of the buried pre-Alliance stone chamber R. Asilom is responding to.",
+      "notes": "Built on older stone at the far end. The join between new and old construction is visible and not clean. There is a buried pre-Alliance stone chamber beneath the far end — the mask responds when the vessel is moored above it.",
       "threat_level": "low",
       "first_seen": "part2-1a"
     },

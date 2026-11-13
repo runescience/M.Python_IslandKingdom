@@ -1,0 +1,481 @@
+================================================================================
+MODULE: THE HIRED TRIP & THE CROSSING
+Chapter 1 — A milk run that isn't.
+================================================================================
+
+THE HOOK
+--------
+Admiral Hall — the player's despised noble relative — has a job. A sealed
+leather pouch of "peace treaties" needs to go from Port City A (Akamara,
+03,03) to Duchy B (Liege, 03,04). Simple courier work. One hex. One week.
+He is paying well. He is being vague about why he needs someone he
+personally dislikes for a job this routine.
+
+The player takes it or they don't. If they take it, they leave at night,
+from a hidden cove fifteen miles down the coast, to catch the Great Trade
+Current unseen by local pirates. Hall's instructions. Not negotiable.
+
+That is the last thing that goes according to plan.
+
+THE STAKES
+----------
+If the player refuses:
+  Hall finds another courier. The pouch reaches Liege. The player misses
+  the event that changes everything. Hall does not forget that they said no.
+
+If the player takes it and delivers cleanly:
+  They never find out what was in the pouch. Hall thanks them. Pays them.
+  Moves on. The player has a small amount of money and a large amount of
+  questions.
+
+If the player takes it and the Crossing happens:
+  Everything changes. The pouch is gone. The player is somewhere they
+  cannot chart. The mask is fused to their masthead. They are not going
+  home the way they came.
+
+The real stakes: the player is being used. Hall knows what is in the
+pouch. He knows what the pouch will do. He is not telling them because
+they would not go if he did. Whether that makes him a villain or a
+strategist is a question the campaign will answer slowly.
+
+
+================================================================================
+RUMOR TABLE (roll d4 or pick)
+================================================================================
+
+Players can gather these in Akamara before departure — dockside, at the
+harbor authority, from other captains. Not all are true.
+
+1. TRUE — "The 100D boundary is under a Sector Silence. King's orders.
+   Long-range carrier pigeons are dark. Signal towers too. Nobody knows
+   why. It went up three days ago."
+   Source: harbor authority clerk, any dockside worker.
+
+2. TRUE — "The Carrier Nashua is running the deep water corridor. She's
+   a warship galleon — full complement, royal guards aboard. She's been
+   stopping everything that crosses the 100D line."
+   Source: any captain who came in from the deep water in the last week.
+
+3. HALF-TRUE — "There are pirates working the Trade Current. Fire-ships.
+   They've been hitting the big galleons — too armored to board, so they
+   burn them instead."
+   True: the pirates exist and use fire-ships. False: they are not
+   random. They are targeting the Nashua specifically. The player's
+   vessel is not their target — unless it gets in the way.
+
+4. LIE — "Hall's courier runs are always clean. He's done this a hundred
+   times. Whatever he's sending, it's routine."
+   Source: anyone who works for Hall or owes him a favor. This is not
+   a deliberate lie — they believe it. They are wrong.
+
+
+================================================================================
+LOCATIONS (7)
+================================================================================
+
+--- 1. THE HIDDEN COVE (departure point, night) ---
+BOLD / SENSORY / ACTION:
+Fifteen miles down the coast from Akamara. Rocky approach, no lights.
+The Trade Current is audible before it is visible — a low, constant
+pressure against the hull. Smells of deep water and cold stone. Hall
+is not here. His instructions are.
+
+What players can do here:
+  - Inspect the sealed pouch before departure. It is leather, waxed,
+    heavy for its size. The seal is Hall's — unbroken. If they break
+    the seal: the pouch contains a leather case inside a leather case.
+    The inner case is locked. The lock is not a standard lock. It is
+    something older. They cannot open it without tools they do not have.
+    Hall will know the outer seal was broken. He will not say anything
+    about it. He will remember.
+  - Check the vessel before departure. Everything is in order. Hall
+    provisioned it himself. If they look carefully: the provisions are
+    better than a one-week run requires. Enough for three weeks. Hall
+    planned for something going wrong. He did not tell them this.
+  - Catch the Trade Current. This is the last easy thing.
+
+--- 2. THE 100D BOUNDARY (deep water, day 3) ---
+BOLD / SENSORY / ACTION:
+Open ocean. The horizon is clean in every direction. The Trade Current
+is running well. Then: a signal tower on a distant rock, dark. Another
+one, further along, also dark. The silence is wrong. The sea is not
+empty — there are vessels out here — but nothing is communicating.
+
+What players can do here:
+  - Try to signal the towers. No response. The towers are operational —
+    the lamps are there, the mechanisms are intact — but nobody is
+    answering. Sector Silence means the operators have orders not to
+    respond to anything.
+  - Ask other vessels what is happening. Most will not stop. One small
+    trader, running back toward Akamara, will say: "The Nashua is ahead.
+    She's stopping everything. Turn back if you can." He does not stop
+    to explain further. He is afraid.
+  - Continue forward. The Nashua is ahead. There is no route around her
+    that does not add three days. The player has a deadline.
+
+--- 3. THE CARRIER NASHUA (deep water, day 3-4) ---
+BOLD / SENSORY / ACTION:
+A warship galleon. The largest vessel the player has likely seen. She
+sits across the Trade Current like a wall. Signal flags flying: heave
+to, prepare for boarding. Royal guards visible on the rail. The hull
+is painted black below the waterline. She smells of cannon smoke and
+salt and something chemical — the fire-retardant the navy uses on
+warship decks.
+
+What players can do here:
+  - Comply with the boarding order. The royal guards search the hold.
+    They are looking for something specific — they do not say what.
+    They find the pouch. They examine it. The outer seal is Hall's.
+    They log it and return it. They are not looking for Hall's courier.
+    They are looking for something else. The player is cleared and told
+    to hold position until the Nashua moves.
+  - Resist the boarding order. This is a bad idea. The Nashua has
+    cannons. The player does not. Fenn will not help them resist a
+    royal warship. If they try: they are boarded by force, the pouch
+    is taken, and they are held in the brig. The Crossing still happens
+    — but the player is not in control of their vessel when it does.
+  - Talk to the interrogating officer. He is professional, not hostile.
+    He will answer one question honestly if asked directly: "What are
+    you looking for?" His answer: "Contraband biological material.
+    Something that should not be in Alliance waters." He will not say
+    more. He does not know more.
+  - Look around while being held. The Nashua's lower decks are visible
+    from the boarding area. There are crates stacked in the hold —
+    marked with a symbol the player does not recognize. Not Alliance.
+    Not any kingdom they know. The guards do not want them looking at
+    the crates. They will be redirected if they stare too long.
+
+GM NOTE — THE CRATES:
+  The crates contain the relic — the thing that will fuse to the player's
+  masthead. The Nashua intercepted a smuggling vessel three days ago and
+  seized the cargo. The royal guards do not know what they have. The
+  interrogating officer does not know what he has. Hall knows. Hall sent
+  the player on this route knowing the Nashua would be here. He did not
+  tell them this either.
+
+--- 4. THE PIRATE ATTACK (deep water, day 4, while held alongside the Nashua) ---
+BOLD / SENSORY / ACTION:
+Fire. Not a gradual thing — immediate. A fire-ship comes out of the
+dark on the Nashua's port side, moving fast, trailing flame. Then
+another. The Nashua's crew is already moving — they have been watching
+for this. The boarding party on the player's vessel is recalled. The
+player is told to cast off and hold clear.
+
+They do not cast off in time.
+
+The fire-ships ram the Nashua. The lower decks flood with water and
+thick smoke. The player's vessel is still alongside. The rigging is
+tangled. The Nashua is listing.
+
+What players can do here:
+  - Cut the rigging. They have axes. The rigging is heavy and on fire
+    in places. This takes time and costs them — burns, cuts, one crew
+    member down if they are not careful. But it is the only way out.
+  - Use the leather diving lungs / air bladders from the hold. Hall
+    provisioned these. The player did not know why. Now they do. The
+    smoke in the lower decks is survivable with the bladders. Without
+    them, it is not.
+  - Navigate the flooding. The Nashua's lower decks are filling fast.
+    If the player needs to go below — to retrieve the pouch if it was
+    taken, to find a crew member, to reach the crates — the flooding
+    is the obstacle. Zero-visibility, rising water, structural collapse.
+    The bladders help. A light helps more.
+  - Get clear. This is the goal. The Nashua is not their problem. Their
+    vessel is their problem. Get the rigging cut, get the hull clear,
+    get into open water before the Nashua goes down or the fire spreads.
+
+GM NOTE — THE CRATES AGAIN:
+  In the chaos, one of the crates breaks open. The relic is loose in
+  the flooding lower deck. The player may or may not see this. If they
+  go below: they see something in the water that is not debris. It is
+  moving toward the hull. Toward the waterline. Toward the direction of
+  their vessel. They cannot stop it. They can only get out.
+
+--- 5. THE ESCAPE (deep water, day 4, immediately after) ---
+BOLD / SENSORY / ACTION:
+Open water. Dark. The Nashua is burning behind them. The fire-ships
+are gone — they hit and ran. The player's vessel is moving but the
+rudder is damaged. The Trade Current is pushing them southwest. The
+compass is spinning. A storm is building from the northwest — the
+kind that comes up fast in deep water and does not apologize.
+
+What players can do here:
+  - Assess the damage. The rudder is cracked — functional but unreliable.
+    The rigging is cut in places. One crew member is down (burns or
+    smoke, not dead). The pouch is still aboard. The hold is intact.
+  - Try to correct course. The rudder will not hold a precise heading.
+    They can steer broadly but not accurately. The storm is going to
+    push them regardless.
+  - Ride out the storm. This is not optional. The storm hits. The
+    player can make choices about how to ride it — reduce sail, sea
+    anchor, run before it — but they cannot avoid it. The rudder
+    snaps completely in the first hour. After that, they are at the
+    mercy of the current.
+  - Find the boarding ram / axes. Hall provisioned these too. If the
+    collapsed rigging traps the vessel against debris, the ram is how
+    they get free. Under archer fire from the pirates if the pirates
+    are still in the area. They may not be. The player does not know.
+
+The storm lasts two days. When it ends, they are somewhere they cannot
+chart. The Trade Current is gone. The compass is still spinning. The
+horizon looks wrong — the light is different here, the water color is
+different, the birds are different. They are past the Great Reefs.
+Nobody from the Alliance goes past the Great Reefs. The Alliance says
+there is nothing past the Great Reefs. The Alliance is wrong.
+
+--- 6. THE LOST AT SEA (deep water, day 7 — one week after departure) ---
+BOLD / SENSORY / ACTION:
+The storm is over. The vessel is drifting. The crew is exhausted. The
+pouch is still in the hold. Then: the hold erupts with lightning.
+
+Not a storm — the pouch. The inner case has opened. Something is
+moving through the hull. The player can feel it in the deck planking —
+a vibration that is not the sea. It moves toward the bow. Toward the
+masthead. And then it stops.
+
+The masthead is different. There is something on it now — a carved
+wooden mask, dark wood, old, fused to the masthead as if it grew there.
+The vessel is moving. Not drifting — moving. On a heading. The rudder
+is responding but the player did not set the heading. Something else did.
+
+The mask is in control. For now.
+
+What players can do here:
+  - Try to remove the mask. It will not come off. It is not attached
+    with fasteners — it is part of the wood now. Cutting it would mean
+    cutting the masthead. The vessel would lose the mast.
+  - Try to change the heading. The rudder responds but the vessel
+    corrects back to the original heading within minutes. The mask
+    knows where it is going. The player does not.
+  - Examine the mask. It is Lignum Vitae — a wood so dense it sinks.
+    It should not be floating. It should not be on a masthead. The
+    carving is a face — not human, not animal, something in between.
+    The eyes are open. They have been open since it appeared. They
+    do not blink.
+  - Check the provisions. The food in the hold is wrong. The salt
+    pork has gone grey. The hardtack is soft. The water in the casks
+    smells stale. This happened in hours. The mask is doing this.
+    They have enough for three days if they are careful. They need
+    to find land.
+
+GM NOTE — THE MASK'S PROPERTIES:
+  The Lignum Vitae Mermaid Mask grants +50% speed increase and an
+  unnatural +20% competence bonus to all skills. It is cursed with
+  Storm Magnetism (attracts lightning) and Biological Drain (rots
+  food, spoils water in 7-10 days unless boxed in lead or ceramic).
+  The player does not know any of this yet. They will learn it by
+  living with it.
+
+  The mask is taking them somewhere specific. The heading is southwest.
+  The player cannot override it for approximately one month. After that,
+  the mask will release trajectory control — but it will still be on
+  the masthead. It will still be watching.
+
+--- 7. THE VACANT ISLAND (arrival, day 8-10) ---
+BOLD / SENSORY / ACTION:
+Land. Low, green, no visible settlement from the water. The mask
+brings them into a natural harbor — the heading corrects itself
+precisely as they approach, threading between rocks that would have
+wrecked them if they had been steering. The mask knows this harbor.
+It has been here before.
+
+The island is not empty. It was occupied recently — the structures
+are intact, the oil lamps have fuel, the gardens are overgrown but
+not dead. Someone left in a hurry or was taken in a hurry. The crests
+on the buildings are not Alliance. Not any kingdom the player knows.
+
+What players can do here:
+  - Find the boathouse. Hidden, partially submerged, accessible from
+    the harbor. Inside: a Commercial Cargo Sloop — reinforced hull,
+    two mounted cannons, ten shots. Better than their current vessel.
+    The hull is sound. The rigging is intact. It has been waiting.
+  - Find the cache. Uncut garnets, 150gp value. Weapons with a +1 to
+    hit. Armor with +1 AC. Stored in a sealed room with a lock that
+    is not difficult to pick. Hall's provisioning was good. This is
+    better.
+  - Find the oil-line self-destruct traps. They are not hidden — they
+    are visible if the player looks at the structural supports. Someone
+    built this place to be destroyed if necessary. The trigger mechanism
+    is in the main building. The player can disarm it, use it, or
+    leave it alone. Leaving it alone is a choice with consequences.
+  - Find the unrecognized crests. They are everywhere — carved into
+    doorframes, painted on the boathouse wall, stamped into the cache
+    containers. The player cannot identify them. They are not in any
+    Alliance reference. They are not Axis. They are something else.
+    Something older. The mask's vibration changes slightly when the
+    player is near the crests. It recognizes them.
+  - Assess the food situation. The island has fresh water — a spring
+    in the interior. The gardens have fruit, overgrown but edible.
+    There are fish in the harbor. The Biological Drain problem is
+    solvable here, temporarily. They need to solve it permanently
+    before they leave.
+
+GM NOTE — THE ISLAND'S OWNER:
+  This outpost belongs to the Recurrent Foundation of the Hand —
+  Admiral Hall's secret organization. Hall sent the player here
+  deliberately. The mask brought them here because the mask knows
+  what the Foundation is and where its outposts are. The player
+  is standing in the middle of a conspiracy they do not yet understand.
+  The island is the first piece of evidence. They will not understand
+  what it means until much later.
+
+
+================================================================================
+THE MASK — PERSISTENT PRESENCE (not a room, a condition)
+================================================================================
+
+BOLD / SENSORY / ACTION:
+A carved wooden face on the masthead. Dark wood. Open eyes. Warm to
+the touch even in cold weather. The vibration is constant — not
+unpleasant, but present. The crew notices it. They do not talk about
+it. They have started orienting toward it when they are uncertain.
+
+What it does:
+  - +50% speed. The vessel moves faster than it should. The wake is
+    wrong for the hull speed. Other vessels notice.
+  - +20% competence. Everything the crew does, they do slightly better.
+    Knots hold tighter. Navigation is more accurate. Repairs last longer.
+    The player may not notice this for several sessions. It is subtle.
+  - Storm Magnetism. Lightning finds the vessel. Not every storm —
+    but in a storm, the lightning comes to them first. The crew will
+    start to notice the pattern.
+  - Biological Drain. Food rots. Water goes stale. The player has to
+    solve this actively and continuously. It is not a one-time problem.
+    It is a permanent condition of traveling with the mask.
+
+What the player can do about the Biological Drain:
+  - Tow a cargo raft fifty feet behind the vessel. Keeps provisions
+    outside the mask's aura. Risks storm loss.
+  - Line a storage box with lead sheets or iron plates. Shields contents
+    from the drain. Heavy. Requires materials.
+  - Use ceramic or glass containers for water. Non-organic barriers
+    slow the drain significantly.
+  - Fish and harvest rainwater. The mask's Storm Magnetism is a curse
+    that can be turned into a water source. Canvas tarps across the
+    deck, funneled into clean buckets.
+  - Burn preservation spells daily if a spellcaster is aboard.
+
+What the player cannot do:
+  - Remove the mask. It is part of the masthead now.
+  - Override the heading for approximately one month.
+  - Explain to anyone in the Alliance what happened without sounding
+    like they have lost their mind.
+
+
+================================================================================
+LOST AT SEA — WHAT IT MEANS
+================================================================================
+
+The player is past the Great Reefs. The Alliance says there is nothing
+here. The Alliance has been lying for three hundred years.
+
+The world is much larger than the Alliance knows. It is mostly ocean —
+eighty percent ocean — and the other civilizations that survived the
+cataclysm three hundred years ago have been developing independently
+ever since. Some of them can reach Alliance waters now. The Alliance
+masses do not know this. The player now knows this, because they are
+standing in it.
+
+The mask brought them here because this is where it needed to go.
+The vacant island is one of the Foundation's outposts built to monitor
+whatever the mask is connected to. The player has just become part of
+that effort, whether they want to be or not.
+
+Hall knew this was possible. He sent them anyway. He will have reasons.
+The player will eventually get to ask him what they are.
+
+
+================================================================================
+FAILING FORWARD
+================================================================================
+
+The story does not end if the player fails. It gets more complicated.
+
+FAIL: Player refuses Hall's contract.
+  Hall finds another courier. The pouch reaches the Nashua's corridor.
+  The Crossing happens to someone else. The mask is loose in the world
+  without the player. Hall comes back to the player with a different
+  ask — not a contract. A request. He needs someone who will not ask
+  questions. He is running out of options.
+
+FAIL: Player is in the Nashua's brig when the Crossing happens.
+  The mask fuses to the Nashua's masthead instead of the player's.
+  The Nashua goes off-course. The player is released in the chaos —
+  the brig guard has other problems. They are on a warship that is
+  now being controlled by an ancient entity, somewhere past the Great
+  Reefs, with no vessel of their own. The boathouse on the vacant
+  island still has the cargo sloop. Getting to it is the problem.
+
+FAIL: Player loses the pouch before the Crossing.
+  The Crossing still happens — the entity does not need the pouch to
+  be intact, only to be near the player's vessel. The pouch was a
+  container. The entity was the contents. The player just does not
+  have the outer case anymore. Hall will want to know what happened
+  to it. The player will have to explain.
+
+FAIL: Player destroys the mask on the vacant island.
+  They cannot. The Lignum Vitae is harder than any tool they have.
+  But if they try — if they spend significant time and resources
+  trying — the mask responds. The vibration changes. The eyes move.
+  Just once. Just enough to make clear that it is aware of what they
+  are doing. They stop trying. The mask goes back to normal. It
+  remembers that they tried.
+
+FAIL: Player triggers the self-destruct on the vacant island.
+  The island burns. The boathouse survives — it is partially
+  submerged and the fire does not reach it. The cache is gone.
+  The crests are gone. The structures are gone. The Foundation
+  loses an outpost. Hall will find out. He will not be pleased.
+  The cargo sloop is still there. The spring is still there.
+  The player can still leave. They just burned their only evidence
+  of what this place was.
+
+
+================================================================================
+LOOT / REWARDS
+================================================================================
+
+THE SEALED POUCH (found at departure, carried through):
+  The outer case is Hall's. The inner case is something older. After
+  the Crossing, the inner case is open and empty. The outer case is
+  intact. It is worth nothing as an object. It is worth everything
+  as evidence — Hall sent them with this, knowing what was inside.
+  The player has proof of that. Whether they use it is up to them.
+
+THE CARGO SLOOP (found in the boathouse):
+  Commercial Cargo Sloop. Reinforced hull. Two mounted cannons.
+  Ten shots. Better than what they arrived in. The mask will transfer
+  to this vessel's masthead if the player moves it — the mask goes
+  where the player goes. The sloop is faster, more durable, and
+  better armed. It is also now carrying the mask. The trade-off
+  is permanent.
+
+THE CACHE (found in the sealed room):
+  Uncut garnets, 150gp. Weapons +1 to hit. Armor +1 AC. Enough to
+  outfit the crew properly. The garnets are uncut — they need a
+  jeweler to realize their value. The weapons and armor are
+  immediately useful.
+
+THE CRESTS (found throughout the island):
+  Not an object. A question. The player has seen a symbol that does
+  not appear in any Alliance reference. They will see it again. When
+  they do, they will know they are in Foundation territory. This is
+  the first piece of a map they do not know they are building.
+
+THE MASK'S COMPETENCE BONUS (ongoing):
+  Not an object. A condition. The player is better at everything now.
+  They will not notice it immediately. They will notice it when they
+  try something they would normally fail and succeed instead. The
+  mask is not helping them. It is using them. The distinction matters
+  later.
+
+THE KNOWLEDGE THAT THE ALLIANCE LIED (earned by surviving):
+  The world is bigger than the Alliance says. The Great Reefs are not
+  a barrier — they are a border. The player is on the other side of
+  it. Everything they were told about the world is incomplete at best
+  and deliberately false at worst. This is not a reward that can be
+  spent. It is a weight that changes how every future interaction lands.
+
+================================================================================
+END OF MODULE
+================================================================================
